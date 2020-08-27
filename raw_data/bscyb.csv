@@ -1,0 +1,883 @@
+date,league,season,index,round,home_team,away_team,home_goals,away_goals,home_goals_first_half,away_goals_first_half,link,spectators
+2001-07-07,NLA-Qualifikation,2001-02,1,1.Runde,YB,Lugano ,1,1,,,,
+2001-07-11,NLA-Qualifikation,2001-02,2,2.Runde,Lausanne,YB ,2,3,,,,
+2001-07-18,NLA-Qualifikation,2001-02,3,3.Runde,GC,YB ,1,1,,,,
+2001-07-22,NLA-Qualifikation,2001-02,4,4.Runde,YB,Zürich ,1,1,,,,
+2001-07-27,NLA-Qualifikation,2001-02,5,5.Runde,Luzern,YB ,0,4,,,,
+2001-08-04,NLA-Qualifikation,2001-02,6,6.Runde,YB,Sion ,3,2,,,,
+2001-08-11,NLA-Qualifikation,2001-02,7,7.Runde,Basel,YB ,3,1,,,,
+2001-08-17,NLA-Qualifikation,2001-02,8,8.Runde,YB,Xamax ,2,0,,,,
+2001-08-25,NLA-Qualifikation,2001-02,9,9.Runde,Servette,YB ,3,0,,,,
+2001-09-08,NLA-Qualifikation,2001-02,10,10.Runde,YB,Aarau ,2,1,,,,
+2001-09-15,NLA-Qualifikation,2001-02,11,11.Runde,St.Gallen,YB ,4,1,,,,
+2001-09-22,NLA-Qualifikation,2001-02,12,12.Runde,Lugano,YB ,0,0,,,,
+2001-09-29,NLA-Qualifikation,2001-02,13,13.Runde,YB,Lausanne ,7,0,,,,
+2001-10-10,NLA-Qualifikation,2001-02,14,14.Runde,YB,GC ,1,3,,,,
+2001-10-14,NLA-Qualifikation,2001-02,15,15.Runde,Zürich,YB ,0,0,,,,
+2001-10-20,NLA-Qualifikation,2001-02,16,16.Runde,YB,Luzern ,5,1,,,,
+2001-10-28,NLA-Qualifikation,2001-02,17,17.Runde,Sion,YB ,1,0,,,,
+2001-11-03,NLA-Qualifikation,2001-02,18,18.Runde,YB,Basel ,2,2,,,,
+2001-11-11,Schweizer Cup,2001-02,19,1/16-Final,Vevey,YB ,0,1,,,,
+2001-11-18,NLA-Qualifikation,2001-02,20,19.Runde,Xamax,YB ,0,0,,,,
+2001-11-25,NLA-Qualifikation,2001-02,21,20.Runde,YB,Servette ,0,1,,,,
+2001-12-01,NLA-Qualifikation,2001-02,22,21.Runde,Aarau,YB ,2,0,,,,
+2001-12-09,NLA-Qualifikation,2001-02,23,22.Runde,YB,StGallen ,1,0,,,,
+2002-02-17,Schweizer Cup,2001-02,25,1/8-Final,Bellinzona,YB ,1,2,,,,
+2002-02-24,NLA-Finalrunde,2001-02,26,1.Runde,YB,Sion ,4,0,,,,
+2002-03-02,NLA-Finalrunde,2001-02,27,2.Runde,GC,YB ,1,1,,,,
+2002-03-06,NLA-Finalrunde,2001-02,28,3.Runde,YB,Servette ,3,1,,,,
+2002-03-10,NLA-Finalrunde,2001-02,29,4.Runde,Basel,YB ,2,0,,,,
+2002-03-17,NLA-Finalrunde,2001-02,30,5.Runde,Lugano,YB ,2,1,,,,
+2002-03-21,Schweizer Cup,2001-02,31,1/4-Final,Wangen,YB  nV,2,6,,,,
+2002-03-24,NLA-Finalrunde,2001-02,32,6.Runde,YB,Zürich ,3,2,,,,
+2002-03-30,NLA-Finalrunde,2001-02,33,7.Runde,YB,StGallen ,1,0,,,,
+2002-04-06,NLA-Finalrunde,2001-02,34,8.Runde,St.Gallen,YB ,3,1,,,,
+2002-04-11,Schweizer Cup,2001-02,35,1/2-Final,Basel,YB  nP,5,4,,,,
+2002-04-14,NLA-Finalrunde,2001-02,36,9.Runde,Zürich,YB ,2,0,,,,
+2002-04-20,NLA-Finalrunde,2001-02,37,10.Runde,YB,Lugano ,2,2,,,,
+2002-04-25,NLA-Finalrunde,2001-02,38,11.Runde,YB,Basel ,0,3,,,,
+2002-04-28,NLA-Finalrunde,2001-02,39,12.Runde,Servette,YB ,0,0,,,,
+2002-05-04,NLA-Finalrunde,2001-02,40,13.Runde,YB,GC ,1,4,,,,
+2002-05-08,NLA-Finalrunde,2001-02,41,14.Runde,Sion,YB ,3,1,,,,
+2002-07-06,NLA-Qualifikation,2002-03,42,1.Runde,YB,Luzern ,2,2,,,,
+2002-07-13,NLA-Qualifikation,2002-03,43,2.Runde,Thun,YB ,3,4,,,,
+2002-07-17,NLA-Qualifikation,2002-03,44,3.Runde,YB,Basel ,1,1,,,,
+2002-07-21,NLA-Qualifikation,2002-03,45,4.Runde,Wil,YB ,3,2,,,,
+2002-07-27,NLA-Qualifikation,2002-03,46,5.Runde,YB,Aarau ,1,0,,,,
+2002-08-03,NLA-Qualifikation,2002-03,47,6.Runde,GC,YB ,4,0,,,,
+2002-08-10,NLA-Qualifikation,2002-03,48,7.Runde,YB,Xamax ,1,1,,,,
+2002-08-17,NLA-Qualifikation,2002-03,49,8.Runde,YB,Delémont ,2,0,,,,
+2002-08-25,NLA-Qualifikation,2002-03,50,9.Runde,St.Gallen,YB ,2,1,,,,
+2002-08-31,NLA-Qualifikation,2002-03,51,10.Runde,YB,Zürich ,2,1,,,,
+2002-09-11,NLA-Qualifikation,2002-03,52,11.Runde,YB,Servette ,4,2,,,,
+2002-09-14,NLA-Qualifikation,2002-03,53,12.Runde,Luzern,YB ,0,0,,,,
+2002-09-22,NLA-Qualifikation,2002-03,54,13.Runde,YB,Thun ,3,0,,,,
+2002-09-28,NLA-Qualifikation,2002-03,55,14.Runde,Basel,YB ,2,1,,,,
+2002-10-04,NLA-Qualifikation,2002-03,56,15.Runde,YB,Wil ,4,2,,,,
+2002-10-19,NLA-Qualifikation,2002-03,57,16.Runde,Aarau,YB ,1,1,,,,
+2002-10-27,NLA-Qualifikation,2002-03,58,17.Runde,YB,GC ,0,2,,,,
+2002-11-02,NLA-Qualifikation,2002-03,59,18.Runde,Xamax,YB ,3,1,,,,
+2002-11-10,Schweizer Cup,2002-03,60,1/16-Final,Solothurn,YB ,1,2,,,,
+2002-11-17,NLA-Qualifikation,2002-03,61,19.Runde,Delémont,YB ,2,4,,,,
+2002-11-24,NLA-Qualifikation,2002-03,62,20.Runde,YB,StGallen ,1,2,,,,
+2002-12-01,NLA-Qualifikation,2002-03,63,21.Runde,Zürich,YB ,4,2,,,,
+2002-12-08,NLA-Qualifikation,2002-03,64,22.Runde,Servette,YB ,4,4,,,,
+2003-02-23,Schweizer Cup,2002-03,66,1/8-Final,YB,Delémont ,1,0,,,,
+2003-03-02,NLA-Finalrunde,2002-03,67,1.Runde,GC,YB ,4,0,,,,
+2003-03-09,NLA-Finalrunde,2002-03,68,2.Runde,YB,Thun ,1,0,,,,
+2003-03-16,NLA-Finalrunde,2002-03,69,3.Runde,Servette,YB ,1,1,,,,
+2003-03-22,NLA-Finalrunde,2002-03,70,4.Runde,YB,Xamax ,3,1,,,,
+2003-03-26,Schweizer Cup,2002-03,71,1/4-Final,YB,Basel  nV,3,4,,,,
+2003-04-05,NLA-Finalrunde,2002-03,72,5.Runde,Wil,YB ,0,1,,,,
+2003-04-13,NLA-Finalrunde,2002-03,73,6.Runde,YB,Zürich ,2,1,,,,
+2003-04-19,NLA-Finalrunde,2002-03,74,7.Runde,Basel,YB ,3,0,,,,
+2003-04-27,NLA-Finalrunde,2002-03,75,8.Runde,YB,Basel ,2,0,,,,
+2003-05-03,NLA-Finalrunde,2002-03,76,9.Runde,Zürich,YB ,4,2,,,,
+2003-05-08,NLA-Finalrunde,2002-03,77,10.Runde,YB,Wil ,3,4,,,,
+2003-05-18,NLA-Finalrunde,2002-03,78,11.Runde,Xamax,YB ,2,0,,,,
+2003-05-21,NLA-Finalrunde,2002-03,79,12.Runde,YB,Servette ,2,1,,,,
+2003-05-25,NLA-Finalrunde,2002-03,80,13.Runde,Thun,YB ,4,2,,,,
+2003-05-31,NLA-Finalrunde,2002-03,81,14.Runde,YB,GC ,2,4,,,,
+2003-07-16,Meisterschaft,2003-04,82,1.Runde,St.Gallen,YB ,1,4,,,,
+2003-07-22,Meisterschaft,2003-04,83,2.Runde,YB,Basel ,2,3,,,,
+2003-07-26,Meisterschaft,2003-04,84,3.Runde,YB,Zürich ,2,1,,,,
+2003-08-02,Meisterschaft,2003-04,85,4.Runde,Xamax,YB ,1,2,,,,
+2003-08-09,Meisterschaft,2003-04,86,5.Runde,YB,Wil ,2,1,,,,
+2003-08-14,UEFA-Cup,2003-04,87,Qualifikation,MyPa,YB ,3,2,,,,
+2003-08-17,Meisterschaft,2003-04,88,6.Runde,Aarau,YB ,3,1,,,,
+2003-08-22,Meisterschaft,2003-04,89,7.Runde,YB,Thun ,2,1,,,,
+2003-08-28,UEFA-Cup,2003-04,90,Qualifikation,YB,MyPa ,2,2,,,,
+2003-08-31,Meisterschaft,2003-04,91,8.Runde,Servette,YB ,4,1,,,,
+2003-09-03,Meisterschaft,2003-04,92,9.Runde,YB,GC ,4,0,,,,
+2003-09-14,Meisterschaft,2003-04,93,10.Runde,YB,StGallen ,0,0,,,,
+2003-09-20,Schweizer Cup,2003-04,94,1. Runde,Collombey,YB ,0,3,,,,
+2003-09-28,Meisterschaft,2003-04,95,11.Runde,Basel,YB ,2,0,,,,
+2003-10-05,Meisterschaft,2003-04,96,13.Runde,YB,Xamax ,2,1,,,,
+2003-10-15,Meisterschaft,2003-04,97,12.Runde,Zürich,YB ,0,2,,,,
+2003-10-19,Schweizer Cup,2003-04,98,2. Runde,Chaux-de-Fonds,YB ,0,4,,,,
+2003-10-26,Meisterschaft,2003-04,99,14.Runde,Wil,YB ,0,1,,,,
+2003-10-29,Meisterschaft,2003-04,100,15.Runde,YB,Aarau ,5,3,,,,
+2003-11-02,Meisterschaft,2003-04,101,16.Runde,Thun,YB ,1,3,,,,
+2003-11-09,Schweizer Cup,2003-04,102,1/8-Final,Malcantone Agno,YB ,2,1,,,,
+2003-11-23,Meisterschaft,2003-04,103,17.Runde,YB,Servette ,3,0,,,,
+2004-02-15,Meisterschaft,2003-04,106,19.Runde,YB,Basel ,0,1,,,,
+2004-02-22,Meisterschaft,2003-04,107,20.Runde,St.Gallen,YB ,1,3,,,,
+2004-02-29,Meisterschaft,2003-04,108,21.Runde,YB,Zürich ,2,2,,,,
+2004-03-07,Meisterschaft,2003-04,109,22.Runde,Xamax,YB ,0,3,,,,
+2004-03-14,Meisterschaft,2003-04,110,23.Runde,YB,Aarau ,2,2,,,,
+2004-03-17,Meisterschaft,2003-04,111,24.Runde,Wil,YB ,1,3,,,,
+2004-03-21,Meisterschaft,2003-04,112,25.Runde,YB,Servette ,4,2,,,,
+2004-03-28,Meisterschaft,2003-04,113,26.Runde,YB,Thun ,0,0,,,,
+2004-04-04,Meisterschaft,2003-04,114,27.Runde,GC,YB ,4,2,,,,
+2004-04-07,Meisterschaft,2003-04,115,28.Runde,YB,GC ,1,0,,,,
+2004-04-15,Meisterschaft,2003-04,116,29.Runde,Thun,YB ,3,0,,,,
+2004-04-18,Meisterschaft,2003-04,117,30.Runde,Servette,YB ,0,2,,,,
+2004-04-24,Meisterschaft,2003-04,118,31.Runde,YB,Wil ,5,1,,,,
+2004-05-01,Meisterschaft,2003-04,119,32.Runde,Aarau,YB ,0,1,,,,
+2004-05-09,Meisterschaft,2003-04,120,33.Runde,YB,Xamax ,3,1,,,,
+2004-05-12,Meisterschaft,2003-04,121,34.Runde,Zürich,YB ,2,2,,,,
+2004-05-15,Meisterschaft,2003-04,122,35.Runde,YB,St Gallen ,2,1,,,,
+2004-05-22,Meisterschaft,2003-04,123,36.Runde,Basel,YB ,2,1,,,,
+2004-07-17,Meisterschaft,2004-05,124,1.Runde,St. Gallen,YB ,3,3,,,,
+2004-07-23,Meisterschaft,2004-05,125,2.Runde,YB,Schaffhausen ,6,1,,,,
+2004-07-28,Champions League,2004-05,126,Qualifikation,YB,Roter Stern ,2,2,,,,
+2004-08-04,Champions League,2004-05,127,Qualifikation,Roter Stern,YB ,3,0,,,,
+2004-08-07,Meisterschaft,2004-05,128,4.Runde,Thun,YB ,3,1,,,,
+2004-08-15,Meisterschaft,2004-05,129,5.Runde,YB,Basel ,1,1,,,,
+2004-08-21,Meisterschaft,2004-05,130,6.Runde,Aarau,YB ,1,3,,,,
+2004-08-25,Meisterschaft,2004-05,131,3.Runde,YB,GC ,1,1,,,,
+2004-08-29,Meisterschaft,2004-05,132,7.Runde,YB,Servette ,1,1,,,,
+2004-09-11,Meisterschaft,2004-05,133,8.Runde,Zürich,YB ,2,3,,,,
+2004-09-17,Schweizer Cup,2004-05,134,1/32-Final,Martigny,YB ,0,6,,,,
+2004-09-22,Meisterschaft,2004-05,135,9.Runde,Xamax,YB ,3,1,,,,
+2004-09-25,Meisterschaft,2004-05,136,10.Runde,YB,St Gallen ,0,1,,,,
+2004-10-03,Meisterschaft,2004-05,137,11.Runde,Schaffhausen,YB ,1,1,,,,
+2004-10-17,Meisterschaft,2004-05,138,12.Runde,GC,YB ,0,1,,,,
+2004-10-23,Schweizer Cup,2004-05,139,1/16-Final,Wohlen,YB ,0,1,,,,
+2004-10-31,Meisterschaft,2004-05,140,13.Runde,YB,Thun ,2,1,,,,
+2004-11-07,Meisterschaft,2004-05,141,14.Runde,Basel,YB ,2,1,,,,
+2004-11-14,Meisterschaft,2004-05,142,15.Runde,YB,Aarau ,1,1,,,,
+2004-11-20,Schweizer Cup,2004-05,143,1/8-Final,Sion,YB ,1,2,,,,
+2004-11-28,Meisterschaft,2004-05,144,16.Runde,Servette,YB ,2,1,,,,
+2004-12-05,Meisterschaft,2004-05,145,17.Runde,YB,Zürich ,2,4,,,,
+2004-12-12,Meisterschaft,2004-05,146,18.Runde,YB,Xamax ,2,1,,,,
+2005-02-13,Schweizer Cup,2004-05,148,1/4-Final,YB,Thun ,2,0,,,,
+2005-02-27,Meisterschaft,2004-05,149,20. Runde,GC,YB ,1,1,,,,
+2005-03-13,Meisterschaft,2004-05,150,23. Runde,Zürich,YB ,0,5,,,,
+2005-03-16,Meisterschaft,2004-05,151,24. Runde,YB,Xamax ,1,0,,,,
+2005-03-20,Meisterschaft,2004-05,152,25. Runde,YB,St Gallen ,2,3,,,,
+2005-04-06,Meisterschaft,2004-05,153,21. Runde,Schaffhausen,YB ,0,1,,,,
+2005-04-10,Meisterschaft,2004-05,154,27. Runde,YB,Basel ,2,5,,,,
+2005-04-14,Meisterschaft,2004-05,155,19. Runde,YB,Thun ,2,4,,,,
+2005-04-17,Meisterschaft,2004-05,156,28. Runde,Basel,YB ,1,1,,,,
+2005-04-20,Schweizer Cup,2004-05,157,1/2-Final,Zürich,YB ,3,1,,,,
+2005-04-23,Meisterschaft,2004-05,158,30. Runde,St. Gallen,YB ,2,2,,,,
+2005-04-27,Meisterschaft,2004-05,159,22. Runde,YB,Aarau ,1,1,,,,
+2005-05-01,Meisterschaft,2004-05,160,31. Runde,Xamax,YB ,0,1,,,,
+2005-05-08,Meisterschaft,2004-05,161,32. Runde,YB,Zürich ,1,1,,,,
+2005-05-11,Meisterschaft,2004-05,162,33. Runde,Thun,YB ,1,1,,,,
+2005-05-18,Meisterschaft,2004-05,163,34. Runde,YB,GC ,3,2,,,,
+2005-05-22,Meisterschaft,2004-05,164,35. Runde,Aarau,YB ,1,1,,,,
+2005-05-29,Meisterschaft,2004-05,165,36. Runde,YB,Schaffhausen ,4,1,,,,
+2005-07-02,UI-Cup,2005-06,166,2. Runde,Lokeren,YB ,1,4,,,,
+2005-07-10,UI-Cup,2005-06,167,2. Runde,YB,Lokeren ,2,1,,,,
+2005-07-13,Meisterschaft,2005-06,168,1. Runde,Xamax,YB ,1,3,,,,
+2005-07-16,UI-Cup,2005-06,169,3. Runde,YB,Marseille ,2,3,,,,
+2005-07-20,Meisterschaft,2005-06,170,2. Runde,Yverdon,YB ,0,3,,,,
+2005-07-23,UI-Cup,2005-06,171,3. Runde,Marseille,YB ,2,1,,,,
+2005-08-06,Meisterschaft,2005-06,172,4. Runde,YB,GC ,0,3,,,,
+2005-08-10,Meisterschaft,2005-06,173,3. Runde,YB,Aarau ,0,0,,,,
+2005-08-13,Meisterschaft,2005-06,174,5. Runde,Schaffh.,YB ,3,2,,,,
+2005-08-21,Meisterschaft,2005-06,175,6. Runde,YB,Zürich ,3,1,,,,
+2005-08-28,Meisterschaft,2005-06,176,7. Runde,St. Gallen,YB ,0,1,,,,
+2005-09-10,Meisterschaft,2005-06,177,8. Runde,YB,Thun ,0,0,,,,
+2005-09-17,Schweizer Cup,2005-06,178,1/32 Final,Orpund,YB ,0,8,,,,
+2005-09-22,Meisterschaft,2005-06,179,9. Runde,Basel,YB ,1,1,,,,
+2005-09-25,Meisterschaft,2005-06,180,10. Runde,YB,Xamax ,3,2,,,,
+2005-10-02,Meisterschaft,2005-06,181,11 .Runde,YB,Yverdon ,2,2,,,,
+2005-10-16,Meisterschaft,2005-06,182,12 .Runde,Aarau,YB ,1,0,,,,
+2005-10-23,Schweizer Cup,2005-06,183,1/16 Final,Chx-d-Fds,YB ,0,4,,,,
+2005-10-30,Meisterschaft,2005-06,184,13. Runde,GC,YB ,1,1,,,,
+2005-11-06,Meisterschaft,2005-06,185,14. Runde,YB,Schaffhausen ,3,1,,,,
+2005-11-20,Meisterschaft,2005-06,186,15. Runde,Zürich,YB ,1,1,,,,
+2005-11-26,Meisterschaft,2005-06,187,16. Runde,YB,St Gallen ,1,0,,,,
+2005-12-02,Meisterschaft,2005-06,188,17. Runde,Thun,YB ,1,1,,,,
+2005-12-11,Meisterschaft,2005-06,189,18. Runde,YB,Basel ,1,6,,,,
+2005-12-18,Schweizer Cup,2005-06,190,1/8 Final,Kriens,YB ,1,2,,,,
+2006-02-05,Schweizer Cup,2005-06,192,1/4 Final,Lugano,YB ,1,2,,,,
+2006-02-12,Meisterschaft,2005-06,193,19. Runde,YB,Yverdon ,2,1,,,,
+2006-02-19,Meisterschaft,2005-06,194,20. Runde,Thun,YB ,1,1,,,,
+2006-02-26,Meisterschaft,2005-06,195,21. Runde,YB,GC ,1,1,,,,
+2006-03-11,Meisterschaft,2005-06,196,23. Runde,YB,Aarau ,2,1,,,,
+2006-03-15,Schweizer Cup,2005-06,197,1/2 Final,Zürich,YB ,1,4,,,,
+2006-03-19,Meisterschaft,2005-06,198,24. Runde,YB,Xamax ,1,0,,,,
+2006-03-22,Meisterschaft,2005-06,199,25. Runde,Schaffhausen,YB ,1,1,,,,
+2006-03-26,Meisterschaft,2005-06,200,26. Runde,YB,Zürich ,0,2,,,,
+2006-03-29,Meisterschaft,2005-06,201,22. Runde,St. Gallen,YB ,1,3,,,,
+2006-04-02,Meisterschaft,2005-06,202,27. Runde,Basel,YB ,2,0,,,,
+2006-04-09,Meisterschaft,2005-06,203,29 .Runde,Zürich,YB ,3,3,,,,
+2006-04-12,Meisterschaft,2005-06,204,30 .Runde,YB,Schaffhausen ,1,2,,,,
+2006-04-17,Schweizer Cup,2005-06,205,Final,YB,Sion  nP,4,6,,,,
+2006-04-20,Meisterschaft,2005-06,206,31. Runde,Xamax,YB ,1,3,,,,
+2006-04-23,Meisterschaft,2005-06,207,32. Runde,Aarau,YB ,1,5,,,,
+2006-04-29,Meisterschaft,2005-06,208,33. Runde,YB,St Gallen ,2,0,,,,
+2006-05-03,Meisterschaft,2005-06,209,34. Runde,GC,YB ,1,0,,,,
+2006-05-07,Meisterschaft,2005-06,210,35. Runde,YB,Thun ,2,1,,,,
+2006-05-10,Meisterschaft,2005-06,211,28. Runde,YB,Basel ,4,2,,,,
+2006-05-14,Meisterschaft,2005-06,212,36. Runde,Yverdon,YB ,1,3,,,,
+2006-07-13,UEFA-Cup,2006-07,213,1. Qualifikation,Mika Ashtarak,YB ,1,3,,,,
+2006-07-19,Super League,2006-07,214,1. Runde,YB,Basel ,1,1,,,,
+2006-07-23,Super League,2006-07,215,2. Runde,Thun,YB ,0,0,,,,
+2006-07-27,UEFA-Cup,2006-07,216,1. Qualifikation,YB,Mika Ashtarak ,1,0,,,,
+2006-07-30,Super League,2006-07,217,3. Runde,YB,Luzern ,3,2,,,,
+2006-08-05,Super League,2006-07,218,4. Runde,Zürich,YB ,3,1,,,,
+2006-08-10,UEFA-Cup,2006-07,219,2. Qualifikation,YB,Marseille ,3,3,,,,
+2006-08-13,Super League,2006-07,220,5. Runde,YB,Sion ,2,1,,,,
+2006-08-20,Super League,2006-07,221,6. Runde,Aarau,YB ,0,1,,,,
+2006-08-24,UEFA-Cup,2006-07,222,2. Qualifikation,Marseille,YB ,0,0,,,,
+2006-08-27,Swisscom Cup,2006-07,223,1/32 Final,Monthey,YB ,0,1,,,,
+2006-09-09,Super League,2006-07,224,7. Runde,Schaffhausen,YB ,1,0,,,,
+2006-09-18,Super League,2006-07,225,8. Runde,YB,GC ,1,3,,,,
+2006-09-24,Super League,2006-07,226,9. Runde,St. Gallen,YB ,2,1,,,,
+2006-09-29,Swisscom Cup,2006-07,227,1/16 Final,Xamax,YB ,0,3,,,,
+2006-10-15,Super League,2006-07,228,11. Runde,YB,Thun ,5,0,,,,
+2006-10-22,Super League,2006-07,229,12. Runde,Luzern,YB ,3,1,,,,
+2006-10-28,Super League,2006-07,230,13. Runde,YB,Zürich ,2,0,,,,
+2006-11-05,Super League,2006-07,231,14. Runde,Sion,YB ,1,0,,,,
+2006-11-09,Super League,2006-07,232,10. Runde,Basel,YB ,2,2,,,,
+2006-11-12,Swisscom Cup,2006-07,233,1/8 Final,YB,Sion ,3,0,,,,
+2006-11-19,Super League,2006-07,234,15. Runde,YB,Aarau ,2,1,,,,
+2006-11-25,Super League,2006-07,235,16. Runde,YB,Schaffhausen ,3,2,,,,
+2006-12-03,Super League,2006-07,236,17. Runde,GC,YB ,1,2,,,,
+2006-12-09,Super League,2006-07,237,18. Runde,YB,St Gallen ,3,0,,,,
+2007-02-11,Super League,2006-07,239,19. Runde,YB,Basel ,0,3,,,,
+2007-02-17,Super League,2006-07,240,20. Runde,Zürich,YB ,1,0,,,,
+2007-02-25,Super League,2006-07,241,21. Runde,YB,Thun ,3,1,,,,
+2007-03-03,Super League,2006-07,242,22. Runde,YB,Sion ,2,0,,,,
+2007-03-11,Super League,2006-07,243,23. Runde,Luzern,YB ,1,1,,,,
+2007-03-15,Swisscom Cup,2006-07,244,1/4 Final,Wil,YB ,2,1,,,,
+2007-03-18,Super League,2006-07,245,24. Runde,St. Gallen,YB ,1,1,,,,
+2007-03-31,Super League,2006-07,246,25. Runde,YB,GC ,1,0,,,,
+2007-04-07,Super League,2006-07,247,26. Runde,Schaffhausen,YB ,0,1,,,,
+2007-04-14,Super League,2006-07,248,27. Runde,YB,Aarau ,1,1,,,,
+2007-04-18,Super League,2006-07,249,28. Runde,Aarau,YB ,1,1,,,,
+2007-04-21,Super League,2006-07,250,29. Runde,YB,Schaffhausen ,2,0,,,,
+2007-04-28,Super League,2006-07,251,30. Runde,GC,YB ,1,2,,,,
+2007-05-06,Super League,2006-07,252,31. Runde,YB,St Gallen ,1,1,,,,
+2007-05-09,Super League,2006-07,253,32. Runde,YB,Luzern ,3,1,,,,
+2007-05-12,Super League,2006-07,254,33. Runde,Sion,YB ,2,0,,,,
+2007-05-16,Super League,2006-07,255,34. Runde,Thun,YB ,0,1,,,,
+2007-05-19,Super League,2006-07,256,35. Runde,YB,Zürich ,2,3,,,,
+2007-05-24,Super League,2006-07,257,36. Runde,Basel,YB ,2,0,,,,
+2007-07-19,Uefa-Cup,2007-08,258,Qualifikation,FC Banants,YB,1,1,0,1,,
+2007-07-22,Meisterschaft,2007-08,259,1. Runde,Aarau,YB,1,1,1,1,,
+2007-07-25,Meisterschaft,2007-08,260,2. Runde,YB,GC,3,2,2,0,,
+2007-07-29,Meisterschaft,2007-08,261,3. Runde,Luzern,YB,2,2,2,1,,
+2007-08-02,Uefa-Cup,2007-08,262,Qualifikation,YB,FC Banants,4,0,3,0,,
+2007-08-05,Meisterschaft,2007-08,263,4. Runde,YB,Basel,5,1,2,0,,
+2007-08-11,Meisterschaft,2007-08,264,5. Runde,Xamax,YB,3,1,2,1,,
+2007-08-16,Uefa-Cup,2007-08,265,Qualifikation,YB,Lens,1,1,0,0,,
+2007-08-19,Meisterschaft,2007-08,266,6. Runde,YB,Thun,0,0,,,,
+2007-08-25,Meisterschaft,2007-08,267,7. Runde,Zürich,YB,5,1,3,0,,
+2007-08-30,Uefa-Cup,2007-08,268,Qualifikation,Lens,YB,5,1,2,1,,
+2007-09-02,Meisterschaft,2007-08,269,8. Runde,YB,St Gallen,3,1,3,0,,
+2007-09-16,Swisscom-Cup,2007-08,270,1/32-Final,Bavois,YB,1,3,0,2,,
+2007-09-23,Meisterschaft,2007-08,271,9. Runde,Sion,YB,1,2,0,0,,
+2007-09-26,Meisterschaft,2007-08,272,10. Runde,YB,Aarau,4,1,3,0,,
+2007-09-29,Meisterschaft,2007-08,273,11. Runde,GC,YB,3,3,1,1,,
+2007-10-06,Meisterschaft,2007-08,274,12. Runde,YB,Luzern,6,1,0,1,,
+2007-10-21,Swisscom-Cup,2007-08,275,1/16-Final,Locarno,YB,0,2,0,0,,
+2007-10-28,Meisterschaft,2007-08,276,13. Runde,Basel,YB,4,0,2,0,,
+2007-11-01,Meisterschaft,2007-08,277,14. Runde,YB,Xamax,3,2,2,0,,
+2007-11-04,Meisterschaft,2007-08,278,15. Runde,Thun,YB,0,0,,,,
+2007-11-11,Meisterschaft,2007-08,279,16. Runde,YB,Zürich,1,1,0,0,,
+2007-11-25,Swisscom-Cup,2007-08,280,1/8-Final,Chiasso,YB,0,1,0,1,,
+2007-12-01,Meisterschaft,2007-08,281,17. Runde,St. Gallen,YB,2,7,1,3,,
+2007-12-09,Meisterschaft,2007-08,282,18. Runde,YB,Sion,1,0,1,0,,
+2007-12-16,Swisscom-Cup,2007-08,283,1/4-Final,Xamax,YB,3,2,,,,
+2008-02-03,Meisterschaft,2007-08,285,19. Runde,YB,Basel,2,0,0,0,,
+2008-02-10,Meisterschaft,2007-08,286,20. Runde,GC,YB,3,3,3,0,,
+2008-02-17,Meisterschaft,2007-08,287,21. Runde,Xamax,YB,3,1,2,1,,
+2008-02-24,Meisterschaft,2007-08,288,22. Runde,YB,Sion,3,1,1,1,,
+2008-03-01,Meisterschaft,2007-08,289,23. Runde,Aarau,YB,0,2,0,1,,
+2008-03-09,Meisterschaft,2007-08,290,24. Runde,YB,Zürich,3,0,2,0,,
+2008-03-14,Meisterschaft,2007-08,291,25. Runde,YB,St Gallen,3,0,1,0,,
+2008-03-18,Meisterschaft,2007-08,292,26. Runde,Luzern,YB,0,3,0,1,,
+2008-03-22,Meisterschaft,2007-08,293,27. Runde,YB,Thun,4,2,1,1,,
+2008-03-30,Meisterschaft,2007-08,294,28. Runde,Thun,YB,0,4,0,0,,
+2008-04-12,Meisterschaft,2007-08,295,30. Runde,St. Gallen,YB,2,0,2,0,,
+2008-04-17,Meisterschaft,2007-08,296,31. Runde,Zürich,YB,1,2,0,2,,
+2008-04-20,Meisterschaft,2007-08,297,32. Runde,YB,Aarau,4,0,1,0,,
+2008-04-24,Meisterschaft,2007-08,298,29. Runde,YB,Luzern,0,1,0,0,,
+2008-04-27,Meisterschaft,2007-08,299,33. Runde,Sion,YB,1,2,1,1,,
+2008-05-02,Meisterschaft,2007-08,300,34. Runde,YB,Xamax,1,3,0,1,,
+2008-05-06,Meisterschaft,2007-08,301,35. Runde,YB,GC,2,0,1,0,,
+2008-05-10,Meisterschaft,2007-08,302,36. Runde,Basel,YB,2,0,2,0,,
+2008-07-18,Meisterschaft,2008-09,303,,YB,Basel  ,1,2,1,0,,
+2008-07-24,Meisterschaft,2008-09,304,,Sion,YB  ,2,1,0,1,,
+2008-07-27,Meisterschaft,2008-09,305,,YB,Vaduz ,0,0,,,,
+2008-08-03,Meisterschaft,2008-09,306,,Zürich,YB  ,2,1,1,0,,
+2008-08-10,Meisterschaft,2008-09,307,,YB,Xamax  ,2,1,1,1,,
+2008-08-14,UEFA-Cup,2008-09,308,,YB,Debreceni VSC  ,4,1,1,1,,
+2008-08-17,Meisterschaft,2008-09,309,,Luzern,YB  ,0,3,0,1,http://www.bscyb.ch/news-events?nid=292,7593
+2008-08-24,Meisterschaft,2008-09,310,,YB,Aarau  ,3,3,2,1,http://www.bscyb.ch/news-events?nid=291,16204
+2008-08-28,UEFA-Cup,2008-09,311,,Debreceni VSC,YB  ,2,3,1,1,,
+2008-08-31,Meisterschaft,2008-09,312,,YB,GC  ,1,3,1,1,,
+2008-09-14,Meisterschaft,2008-09,313,,Bellinzona,YB  ,1,2,0,1,,
+2008-09-18,UEFA-Cup,2008-09,314,,YB,Club Brügge  ,2,2,1,1,,
+2008-09-21,Cup 1/32-Final,2008-09,315,,Ibach,YB  ,0,6,0,2,http://www.bscyb.ch/news-events?nid=303,3316
+2008-09-27,Meisterschaft,2008-09,316,,Basel,YB  ,1,2,0,1,,
+2008-10-02,UEFA-Cup,2008-09,317,,Club Brügge,YB  ,2,0,2,0,,
+2008-10-05,Meisterschaft,2008-09,318,,YB,Sion  ,5,0,2,0,,
+2008-10-26,Meisterschaft,2008-09,319,,Vaduz,YB ,0,0,,,,
+2008-10-29,Cup 1/16-Final,2008-09,320,,Alle,YB  ,0,5,0,2,,
+2008-11-02,Meisterschaft,2008-09,321,,YB,Zürich  ,2,2,1,1,,
+2008-11-09,Meisterschaft,2008-09,322,,Xamax,YB  ,2,3,0,2,http://www.bscyb.ch/news-events?nid=284,5585
+2008-11-16,Meisterschaft,2008-09,323,,YB,Luzern  ,6,1,2,0,,
+2008-11-29,Meisterschaft,2008-09,324,,Aarau,YB  ,1,1,1,1,http://www.bscyb.ch/news-events?nid=282,4100
+2008-12-07,Meisterschaft,2008-09,325,,GC,YB  ,0,1,0,1,,
+2008-12-10,Cup 1/8-Final,2008-09,326,,Gossau,YB  ,0,1,0,1,http://www.bscyb.ch/news-events?nid=301,3246
+2008-12-14,Meisterschaft,2008-09,327,,YB,Bellinzona  ,3,0,1,0,,
+2009-02-07,Meisterschaft,2008-09,329,,YB,Basel  ,3,2,0,0,,
+2009-02-08,Meisterschaft,2008-09,330,,Luzern,YB  ,2,3,2,1,http://www.bscyb.ch/news-events?nid=278,6719
+2009-02-21,Meisterschaft,2008-09,331,,YB,Aarau  ,4,0,1,0,,
+2009-02-28,Meisterschaft,2008-09,332,,Sion,YB  ,2,3,0,1,,
+2009-03-04,Cup 1/4-Final,2008-09,333,,YB,GC  ,3,0,0,0,,
+2009-03-08,Meisterschaft,2008-09,334,,YB,Bellinzona  ,3,0,1,0,,
+2009-03-15,Meisterschaft,2008-09,335,,Vaduz,YB  ,3,1,2,0,,
+2009-03-22,Meisterschaft,2008-09,336,,YB,Zürich  ,4,2,1,1,,
+2009-04-05,Meisterschaft,2008-09,337,,Xamax,YB  ,2,3,2,0,,
+2009-04-11,Meisterschaft,2008-09,338,,GC,YB  ,3,3,0,2,http://www.bscyb.ch/news-events?nid=270,8400
+2009-04-16,Cup 1/2-Final,2008-09,339,,YB,Basel  nP,3,2,,,,
+2009-04-19,Meisterschaft,2008-09,340,,YB,GC  ,3,1,0,1,,
+2009-04-23,Meisterschaft,2008-09,341,,YB,Xamax ,0,0,,,,
+2009-04-26,Meisterschaft,2008-09,342,,Zürich,YB  ,3,0,2,0,,
+2009-05-05,Meisterschaft,2008-09,343,,YB,Vaduz  ,6,0,2,0,http://www.bscyb.ch/news-events?nid=266,13005
+2009-05-10,Meisterschaft,2008-09,344,,Bellinzona,YB  ,2,1,2,0,,
+2009-05-13,Meisterschaft,2008-09,345,,YB,Sion  ,2,1,1,1,,
+2009-05-16,Meisterschaft,2008-09,346,,Aarau,YB  ,0,1,0,0,,
+2009-05-20,Cupfinal,2008-09,347,,YB,Sion  ,2,3,2,1,,
+2009-05-24,Meisterschaft,2008-09,348,,YB,Luzern  ,5,2,1,1,,
+2009-05-29,Meisterschaft,2008-09,349,,Basel,YB  ,0,3,0,0,,
+2009-06-17,Testspiel,2009-10,350,,YB,Omonia Nikosia  ,2,1,1,0,,
+2009-06-24,Testspiel,2009-10,351,,YB,NK Travnik  ,5,0,4,0,,
+2009-06-27,Testspiel,2009-10,353,,YB,Wohlen  ,3,1,1,1,,
+2009-07-01,Testspiel,2009-10,354,,YB,Yverdon  ,1,0,0,0,http://www.bscyb.ch/news-events?nid=252,1050
+2009-07-04,Uhrencup,2009-10,355,,YB,Panathinaikos Athen  ,1,2,0,2,http://www.bscyb.ch/news-events?nid=5820,1000
+2009-07-06,Uhrencup,2009-10,356,,YB,Shakhtar Donetzk  ,2,1,0,0,http://www.bscyb.ch/news-events?nid=254,5084
+2009-07-14,Meisterschaft,2009-10,357,,Zürich,YB  ,2,3,1,2,,
+2009-07-18,Meisterschaft,2009-10,358,,YB,StGallen  ,1,1,1,0,,
+2009-07-26,Meisterschaft,2009-10,359,,Aarau,YB  ,0,3,0,2,,
+2009-07-30,Europa League,2009-10,360,,Athletic Bilbao,YB  ,0,1,0,1,,
+2009-08-02,Meisterschaft,2009-10,361,,YB,GC  ,2,0,0,0,,
+2009-08-06,Europa League,2009-10,362,,YB,Athletic Bilbao  ,1,2,0,1,,
+2009-08-09,Meisterschaft,2009-10,363,,YB,Bellinzona  ,4,2,3,0,,
+2009-08-16,Meisterschaft,2009-10,364,,Luzern,YB  ,1,2,1,2,http://www.bscyb.ch/news-events?nid=342,8200
+2009-08-23,Meisterschaft,2009-10,365,,YB,Sion  ,3,1,0,0,,
+2009-08-30,Meisterschaft,2009-10,366,,Basel,YB  ,1,2,1,0,,
+2009-09-04,Testspiel,2009-10,367,,Lausanne-Sport,YB ,0,0,,,http://www.bscyb.ch/news-events?nid=361,500
+2009-09-08,Testspiel,2009-10,368,,Solothurn,YB  ,1,6,1,4,http://www.bscyb.ch/news-events?nid=364,500
+2009-09-13,Meisterschaft,2009-10,369,,Xamax,YB  ,3,0,1,0,,
+2009-09-19,Cup 1/32-Final,2009-10,370,,Baden,YB  ,1,3,1,1,,
+2009-09-23,Meisterschaft,2009-10,371,,YB,Zürich  ,3,0,1,0,,
+2009-09-26,Meisterschaft,2009-10,372,,St.Gallen,YB  ,2,3,0,2,,
+2009-10-04,Meisterschaft,2009-10,373,,YB,Aarau  ,4,0,2,0,,
+2009-10-09,OBI Cup,2009-10,374,,YB,Schalke  ,4,5,1,1,http://www.bscyb.ch/news-events?nid=387,10315
+2009-10-14,Testspiel,2009-10,375,,Biel,YB  ,2,0,0,0,http://www.bscyb.ch/news-events?nid=391,1000
+2009-10-18,Cup 1/16-Final,2009-10,376,,Yverdon,YB  ,1,3,1,1,http://www.bscyb.ch/news-events?nid=397,2300
+2009-10-24,Meisterschaft,2009-10,377,,GC,YB  ,2,1,1,0,,
+2009-10-29,Meisterschaft,2009-10,378,,Bellinzona,YB  ,1,7,0,4,,
+2009-11-01,Meisterschaft,2009-10,379,,YB,Luzern  ,1,1,0,0,,
+2009-11-08,Meisterschaft,2009-10,380,,Sion,YB  ,3,1,2,0,,
+2009-11-13,Testspiel,2009-10,381,,YB,Lokomotiv Mezdra  ,5,0,1,0,,
+2009-11-22,Cup 1/8-Final,2009-10,382,,Xamax,YB  ,0,1,0,1,,
+2009-11-29,Meisterschaft,2009-10,383,,YB,Basel  ,2,0,2,0,,
+2009-12-06,Meisterschaft,2009-10,384,,YB,Xamax  ,1,0,0,0,,
+2009-12-13,Cup 1/4-Final,2009-10,385,,Lausanne,YB  ,4,1,2,1,,
+2010-01-16,Testspiel,2009-10,387,,YB,Thun  ,1,1,1,1,http://www.bscyb.ch/news-events?nid=461,300
+2010-01-20,Testspiel,2009-10,388,,YB,Borussia Dortmund II  ,1,3,0,0,,
+2010-01-22,Testspiel,2009-10,389,,YB,Metalurh Zaporizhya  ,2,0,0,0,,
+2010-01-25,Testspiel,2009-10,390,,YB,RB Leipzig ,0,0,,,,
+2010-01-26,Testspiel,2009-10,391,,YB,Hajduk Split  ,1,2,1,1,,
+2010-01-29,Testspiel,2009-10,392,,YB,Winterthur  ,2,0,0,0,http://www.bscyb.ch/news-events?nid=472,300
+2010-02-07,Meisterschaft,2009-10,393,,Basel,YB  ,4,0,0,0,http://www.bscyb.ch/news-events?nid=476,26054
+2010-02-13,Meisterschaft,2009-10,394,,YB,Luzern  ,2,1,2,0,,
+2010-02-21,Meisterschaft,2009-10,395,,St. Gallen,YB  ,1,2,0,1,,
+2010-02-27,Meisterschaft,2009-10,396,,YB,Zürich  ,2,1,0,1,,
+2010-03-07,Meisterschaft,2009-10,397,,Xamax,YB  ,1,0,1,0,,
+2010-03-14,Meisterschaft,2009-10,398,,YB,Sion  ,1,0,0,0,,
+2010-03-20,Meisterschaft,2009-10,399,,YB,GC  ,4,0,2,0,,
+2010-03-25,Meisterschaft,2009-10,400,,Bellinzona,YB  ,1,3,1,1,,
+2010-03-28,Meisterschaft,2009-10,401,,YB,Aarau  ,3,1,1,0,,
+2010-04-03,Meisterschaft,2009-10,402,,Aarau,YB  ,1,5,0,2,http://www.bscyb.ch/news-events?nid=520,7700
+2010-04-10,Meisterschaft,2009-10,403,,YB,Bellinzona  ,2,1,0,0,,
+2010-04-13,Meisterschaft,2009-10,404,,GC,YB  ,2,1,0,0,,
+2010-04-18,Meisterschaft,2009-10,405,,Sion,YB  ,4,1,3,0,,
+2010-04-25,Meisterschaft,2009-10,406,,YB,Xamax  ,4,1,2,1,,
+2010-05-02,Meisterschaft,2009-10,407,,Zürich,YB  ,0,2,0,0,http://www.bscyb.ch/news-events?nid=556,12200
+2010-05-05,Meisterschaft,2009-10,408,,YB,St Gallen  ,2,1,1,1,http://www.bscyb.ch/news-events?nid=561,24456
+2010-05-13,Meisterschaft,2009-10,409,,Luzern,YB  ,5,1,3,0,,
+2010-05-16,Meisterschaft,2009-10,410,,YB,Basel  ,0,2,0,1,,
+2010-06-18,Testspiel,2010-11,411,,S.P. Tre Penne,YB  ,0,5,0,3,http://www.bscyb.ch/news-events?nid=597,50
+2010-06-23,Testspiel,2010-11,412,,YB,Lausanne  ,3,3,2,2,http://www.bscyb.ch/news-events?nid=598,900
+2010-06-26,Testspiel,2010-11,414,,YB,FC Lustenau  ,2,1,0,1,http://www.bscyb.ch/news-events?nid=603,800
+2010-06-30,Testspiel,2010-11,415,,YB,SC Kriens  ,2,1,1,0,http://www.bscyb.ch/news-events?nid=605,758
+2010-07-01,Testspiel,2010-11,416,,YB,Shakhtar Donetzk  ,1,2,1,2,http://www.bscyb.ch/news-events?nid=606,600
+2010-07-02,Testspiel,2010-11,417,,FC Länggasse,YB  ,0,6,0,5,http://www.bscyb.ch/news-events?nid=607,1000
+2010-07-03,Testspiel,2010-11,418,,YB,FC Zürich  ,2,3,1,2,http://www.bscyb.ch/news-events?nid=608,1200
+2010-07-07,Testspiel,2010-11,419,,YB,Winterthur  ,4,2,1,2,http://www.bscyb.ch/news-events?nid=611&pid=9,300
+2010-07-09,Testspiel,2010-11,420,,YB,Sporting Lissabon  ,0,1,0,1,http://www.bscyb.ch/news-events?nid=614&pid=9,1950
+2010-07-17,Meisterschaft,2010-11,421,,Thun,YB  ,1,1,1,0,http://www.bscyb.ch/news-events?nid=622&pid=9,9500
+2010-07-20,Testspiel,2010-11,422,,YB,Deportivo La Coruña  ,1,0,1,0,http://www.bscyb.ch/news-events?nid=624&pid=9,4198
+2010-07-24,Meisterschaft,2010-11,423,,YB,Luzern  ,1,1,0,0,http://www.bscyb.ch/news-events?nid=629&pid=9,22590
+2010-07-28,CL-Quali,2010-11,424,,YB,Fenerbahçe  ,2,2,1,2,http://www.bscyb.ch/news-events?nid=633&pid=9,19091
+2010-07-31,Meisterschaft,2010-11,425,,Bellinzona,YB  ,2,1,2,0,http://www.bscyb.ch/news-events?nid=637&pid=9,3900
+2010-08-04,CL-Quali,2010-11,426,,Fenerbahçe,YB  ,0,1,0,1,http://www.bscyb.ch/news-events?nid=641&pid=9,45000
+2010-08-08,Meisterschaft,2010-11,427,,GC,YB  ,1,2,0,1,http://www.bscyb.ch/news-events?nid=648&pid=9,6900
+2010-08-14,Meisterschaft,2010-11,428,,YB,Xamax  ,0,1,0,1,http://www.bscyb.ch/news-events?nid=658&pid=9,21203
+2010-08-17,CL-Playoff,2010-11,429,,YB,Tottenham Hotspur  ,3,2,3,1,http://www.bscyb.ch/news-events?nid=662&pid=8,30166
+2010-08-22,Meisterschaft,2010-11,430,,YB,Zürich  ,1,0,0,0,http://www.bscyb.ch/news-events?nid=666&pid=8,20311
+2010-08-25,CL-Playoff,2010-11,431,,Tottenham Hotspur,YB  ,4,0,2,0,http://www.bscyb.ch/news-events?nid=672&pid=8,34709
+2010-08-29,Meisterschaft,2010-11,432,,Sion,YB  ,2,0,1,0,http://www.bscyb.ch/news-events?nid=679&pid=8,12800
+2010-09-02,Testspiel,2010-11,433,,YB,SC Freiburg  ,3,1,2,0,http://www.bscyb.ch/news-events?nid=684&pid=8,3080
+2010-09-12,Meisterschaft,2010-11,434,,YB,Basel  ,2,2,2,1,http://www.bscyb.ch/news-events?nid=691&pid=8,25772
+2010-09-16,Europa League,2010-11,435,,VfB Stuttgart,YB  ,3,0,1,0,http://www.bscyb.ch/news-events?nid=701&pid=8,15000
+2010-09-22,Meisterschaft,2010-11,437,,St. Gallen,YB  ,1,2,0,1,http://www.bscyb.ch/news-events?nid=705&pid=8,10827
+2010-09-26,Meisterschaft,2010-11,438,,YB,Thun  ,2,2,1,0,http://www.bscyb.ch/news-events?nid=709&pid=8,23646
+2010-09-30,Europa League,2010-11,439,,YB,Getafe  ,2,0,1,0,http://www.bscyb.ch/news-events?nid=713&pid=7,12830
+2010-10-03,Meisterschaft,2010-11,440,,Luzern,YB  ,2,0,0,0,http://www.bscyb.ch/news-events?nid=717&pid=7,8700
+2010-10-21,Europa League,2010-11,442,,YB,Odense  ,4,2,2,0,http://www.bscyb.ch/news-events?nid=733&pid=7,12511
+2010-10-24,Meisterschaft,2010-11,443,,YB,Bellinzona  ,1,1,1,1,http://www.bscyb.ch/news-events?nid=735&pid=7,21676
+2010-10-31,Meisterschaft,2010-11,444,,YB,GC  ,1,0,0,0,http://www.bscyb.ch/news-events?nid=741&pid=7,21218
+2010-11-04,Europa League,2010-11,445,,Odense,YB  ,2,0,1,0,http://www.bscyb.ch/news-events?nid=747&pid=7,5334
+2010-11-07,Meisterschaft,2010-11,446,,Xamax,YB  ,2,4,1,2,http://www.bscyb.ch/news-events?nid=750&pid=7,5250
+2010-11-14,Meisterschaft,2010-11,447,,Zürich,YB  ,2,2,2,0,http://www.bscyb.ch/news-events?nid=755&pid=7,15200
+2010-11-28,Meisterschaft,2010-11,449,,YB,Sion  ,2,1,1,0,http://www.bscyb.ch/news-events?nid=767&pid=6,20799
+2010-12-01,Europa League,2010-11,450,,YB,Stuttgart  ,4,2,1,0,http://www.bscyb.ch/news-events?nid=771&pid=6,18627
+2010-12-04,Meisterschaft,2010-11,451,,Basel,YB  ,3,1,0,1,http://www.bscyb.ch/news-events?nid=775&pid=6,30499
+2010-12-12,Meisterschaft,2010-11,452,,YB,St Gallen  ,1,1,0,0,http://www.bscyb.ch/news-events?nid=784&pid=6,21015
+2010-12-16,Europa League,2010-11,453,,Getafe,YB  ,1,0,1,0,http://www.bscyb.ch/news-events?nid=793&pid=6,2000
+2011-01-15,Testspiel,2010-11,455,,YB,Lausanne  ,3,1,0,1,http://www.bscyb.ch/news-events?nid=811&pid=6,1
+2011-01-19,Testspiel,2010-11,456,,YB,Arka Gdynia ,0,0,,,,
+2011-01-21,Testspiel,2010-11,457,,YB,Lech Poznan  ,2,1,1,0,,
+2011-01-22,Testspiel,2010-11,458,,YB,FC Timisoara ,0,0,,,,
+2011-01-25,Testspiel,2010-11,459,,YB,Strømsgodset IF  ,4,1,2,1,,
+2011-01-28,Testspiel,2010-11,460,,YB,Winterthur  ,1,1,0,0,http://www.bscyb.ch/news-events?nid=828&pid=5,733
+2011-02-05,Meisterschaft,2010-11,461,,Bellinzona,YB  ,1,5,1,1,http://www.bscyb.ch/news-events?nid=836&pid=5,3589
+2011-02-13,Meisterschaft,2010-11,462,,YB,FC Zürich  ,4,2,2,1,http://www.bscyb.ch/news-events?nid=846&pid=5,21527
+2011-02-17,Europa League,2010-11,463,,YB,Zenit St Petersburg  ,2,1,0,1,http://www.bscyb.ch/news-events?nid=853&pid=5,15026
+2011-02-20,Meisterschaft,2010-11,464,,Thun,YB  ,1,1,1,0,http://www.bscyb.ch/news-events?nid=857&pid=5,5600
+2011-02-24,Europa League,2010-11,465,,Zenit St. Petersburg,YB  ,3,1,1,1,http://www.bscyb.ch/news-events?nid=863&pid=5,10000
+2011-02-27,Meisterschaft,2010-11,466,,YB,Xamax  ,3,2,1,2,http://www.bscyb.ch/news-events?nid=868&pid=5,16507
+2011-03-05,Meisterschaft,2010-11,468,,GC,YB  ,3,2,2,1,http://www.bscyb.ch/news-events?nid=876&pid=5,4600
+2011-03-13,Meisterschaft,2010-11,469,,St. Gallen,YB  ,0,2,0,1,http://www.bscyb.ch/news-events?nid=884&pid=5,12798
+2011-03-20,Meisterschaft,2010-11,470,,YB,Luzern  ,3,1,1,1,http://www.bscyb.ch/news-events?nid=892&pid=4,21898
+2011-04-03,Meisterschaft,2010-11,471,,Sion,YB  ,0,2,0,0,http://www.bscyb.ch/news-events?nid=907&pid=4,13000
+2011-04-10,Meisterschaft,2010-11,472,,YB,Basel  ,3,3,2,1,http://www.bscyb.ch/news-events?nid=915&pid=4,31120
+2011-04-16,Meisterschaft,2010-11,473,,YB,Bellinzona  ,4,0,2,0,http://www.bscyb.ch/news-events?nid=922&pid=4,19112
+2011-04-19,Meisterschaft,2010-11,474,,Zürich,YB  ,2,1,0,0,http://www.bscyb.ch/news-events?nid=926&pid=4,13600
+2011-04-23,Meisterschaft,2010-11,475,,Basel,YB  ,2,1,1,1,http://www.bscyb.ch/news-events?nid=931&pid=4,31595
+2011-04-30,Meisterschaft,2010-11,476,,YB,Thun  ,0,1,0,0,http://www.bscyb.ch/news-events?nid=941&pid=4,19964
+2011-05-07,Meisterschaft,2010-11,477,,Luzern,YB  ,1,1,1,1,http://www.bscyb.ch/news-events?nid=948&pid=4,7586
+2011-05-10,Meisterschaft,2010-11,478,,YB,GC  ,2,2,1,0,http://www.bscyb.ch/news-events?nid=953&pid=4,17069
+2011-05-15,Meisterschaft,2010-11,479,,YB,Sion  ,1,1,0,0,http://www.bscyb.ch/news-events?nid=960&pid=4,23372
+2011-05-22,Meisterschaft,2010-11,480,,Xamax,YB  ,1,2,1,0,http://www.bscyb.ch/news-events?nid=965&pid=3,11977
+2011-05-25,Meisterschaft,2010-11,481,,YB,St Gallen  ,4,2,0,0,http://www.bscyb.ch/news-events?nid=971,18194
+2011-06-22,Testspiel,2011-12,482,,Saanenland Auswahl,YB  ,0,26,0,14,https://www.bscyb.ch/news?nid=995,450
+2011-06-25,Testspiel,2011-12,483,,YB,Stade Nyonnais  ,2,0,1,0,https://www.bscyb.ch/news?nid=996,1400
+2011-06-28,Testspiel,2011-12,484,,Biel/Bienne,YB  ,0,3,0,1,https://www.bscyb.ch/news?nid=1000,1800
+2011-07-02,Testspiel,2011-12,486,,YB,Eintracht Frankfurt  ,1,3,0,1,https://www.bscyb.ch/news?nid=1007,2900
+2011-07-08,Uhrencup,2011-12,487,,YB,Hertha BSC  ,4,2,1,1,https://www.bscyb.ch/news?nid=1013,4458
+2011-07-11,Uhrencup,2011-12,488,,YB,West Ham  ,2,1,2,1,https://www.bscyb.ch/news?nid=1015,7350
+2011-07-16,Meisterschaft,2011-12,489,,YB,Basel  ,1,1,0,0,https://www.bscyb.ch/news?nid=1026,31120
+2011-07-19,Testspiel,2011-12,490,,Fribourg,YB  ,1,2,0,1,https://www.bscyb.ch/news?nid=1030,400
+2011-07-23,Meisterschaft,2011-12,491,,Sion,YB  ,1,2,0,1,https://www.bscyb.ch/news?nid=1039,12500
+2011-07-28,Europa League,2011-12,492,,YB,Westerlo  ,3,1,2,1,https://www.bscyb.ch/news?nid=1047,11100
+2011-07-31,Meisterschaft,2011-12,493,,YB,Servette  ,1,1,1,1,https://www.bscyb.ch/news?nid=1051,22472
+2011-08-04,Europa League,2011-12,494,,Westerlo,YB  ,0,2,0,1,https://www.bscyb.ch/news?nid=1055,4000
+2011-08-07,Meisterschaft,2011-12,495,,Luzern,YB  ,1,1,0,0,https://www.bscyb.ch/news?nid=1061,17000
+2011-08-14,Meisterschaft,2011-12,496,,GC,YB  ,0,3,0,1,https://www.bscyb.ch/news?nid=1070,7600
+2011-08-18,Europa League Play-off,2011-12,497,,Braga,YB ,0,0,,,https://www.bscyb.ch/news?nid=1081,12458
+2011-08-21,Meisterschaft,2011-12,498,,YB,Thun  ,0,2,0,1,https://www.bscyb.ch/news?nid=1086,26834
+2011-08-25,Europa League Play-off,2011-12,499,,YB,Braga  ,2,2,0,1,https://www.bscyb.ch/news?nid=1097,15012
+2011-08-28,Meisterschaft,2011-12,500,,YB,Zürich  ,2,3,1,0,https://www.bscyb.ch/news?nid=1102,22254
+2011-09-03,Testspiel,2011-12,501,,SC Freiburg,YB  ,2,1,1,0,https://www.bscyb.ch/news?nid=1112,2000
+2011-09-06,Testspiel,2011-12,502,,Köniz,YB  ,0,7,0,1,https://www.bscyb.ch/news?nid=1117,600
+2011-09-11,Meisterschaft,2011-12,503,,Lausanne,YB  ,0,3,0,2,https://www.bscyb.ch/news?nid=1122,5900
+2011-09-17,Schweizer Cup 1/32-Final,2011-12,504,,Domdidier,YB  ,0,8,0,1,https://www.bscyb.ch/news?nid=1128,1800
+2011-09-21,Meisterschaft,2011-12,505,,YB,Xamax  ,4,1,2,1,https://www.bscyb.ch/news?nid=1134,19177
+2011-09-24,Meisterschaft,2011-12,506,,Zürich,YB  ,1,2,0,1,https://www.bscyb.ch/news?nid=1139,10900
+2011-09-28,Testspiel,2011-12,507,,Breitenrain,YB  ,0,4,0,3,https://www.bscyb.ch/news?nid=1143,1353
+2011-10-02,Meisterschaft,2011-12,508,,YB,Luzern  ,1,0,0,0,https://www.bscyb.ch/news?nid=1149,26549
+2011-10-06,Testspiel,2011-12,509,,YB,Evian  ,2,3,0,1,https://www.bscyb.ch/news?nid=1156,800
+2011-10-10,Testspiel,2011-12,510,,Münsingen,YB  ,0,2,0,1,https://www.bscyb.ch/news?nid=1160,1000
+2011-10-16,Schweizer Cup,2011-12,511,,Freienbach,YB  ,0,4,0,3,https://www.bscyb.ch/news?nid=1168,3250
+2011-10-23,Meisterschaft,2011-12,512,,YB,GC  ,0,1,0,0,,
+2011-10-27,Meisterschaft,2011-12,513,,Xamax,YB ,0,0,,,https://www.bscyb.ch/news?nid=1182,3243
+2011-10-30,Meisterschaft,2011-12,514,,YB,Lausanne  ,4,1,2,1,https://www.bscyb.ch/news?nid=1184,18905
+2011-11-06,Meisterschaft,2011-12,515,,Servette,YB  ,1,0,1,0,https://www.bscyb.ch/news?nid=1199,8480
+2011-11-19,Meisterschaft,2011-12,517,,Basel,YB  ,1,0,1,0,https://www.bscyb.ch/news?nid=1217,32006
+2011-11-27,Schweizer Cup 1/8-Final,2011-12,518,,Winterthur,YB  nP ,3,2,1,1,https://www.bscyb.ch/news?nid=1227,6000
+2011-12-04,Meisterschaft,2011-12,519,,YB,Sion  ,1,1,1,1,https://www.bscyb.ch/news?nid=1238,22756
+2011-12-10,Meisterschaft,2011-12,520,,Thun,YB  ,1,1,1,1,https://www.bscyb.ch/news?nid=1246,10000
+2012-01-14,Testspiel,2011-12,522,,Solothurn,YB  ,1,2,0,1,https://www.bscyb.ch/news?nid=1266,650
+2012-01-17,Testspiel,2011-12,523,,Aarau,YB  ,3,5,1,2,https://www.bscyb.ch/news?nid=1268,170112
+2012-01-22,Testspiel,2011-12,524,,Dynamo Kiew,YB   nP,2,2,4,2,https://www.bscyb.ch/news?nid=1278,300
+2012-01-25,Testspiel,2011-12,525,,YB,Ekranas  ,4,0,0,0,https://www.bscyb.ch/news?nid=1285,200
+2012-01-28,Testspiel,2011-12,526,,YB,Dinamo Tiflis  ,3,1,2,0,https://www.bscyb.ch/news?nid=1289,150
+2012-02-05,Meisterschaft,2011-12,527,,YB,Servette  ,3,1,3,0,https://www.bscyb.ch/news?nid=1305,14375
+2012-02-12,Meisterschaft,2011-12,529,,Sion,YB  ,0,1,0,0,https://www.bscyb.ch/news?nid=1316,8700
+2012-02-16,Meisterschaft,2011-12,530,,YB,Basel  ,2,2,1,0,https://www.bscyb.ch/news?nid=1325,20246
+2012-02-25,Meisterschaft,2011-12,531,,Luzern,YB  ,2,0,2,0,https://www.bscyb.ch/news?nid=1337,12223
+2012-03-04,Meisterschaft,2011-12,532,,Lausanne,YB ,0,0,,,https://www.bscyb.ch/news?nid=1350,5800
+2012-03-07,Testspiel,2011-12,533,,Karlsruher SC,YB  ,1,1,0,1,https://www.bscyb.ch/news?nid=1356,700
+2012-03-13,Testspiel,2011-12,534,,Düdingen,YB  ,0,4,0,3,https://www.bscyb.ch/news?nid=1365,700
+2012-03-17,Meisterschaft,2011-12,535,,GC,YB  ,2,0,0,0,https://www.bscyb.ch/news?nid=1371,4800
+2012-03-20,Testspiel,2011-12,536,,Yverdon,YB  ,1,3,1,1,https://www.bscyb.ch/news?nid=1379,300
+2012-03-25,Meisterschaft,2011-12,537,,YB,Thun  ,4,0,2,0,https://www.bscyb.ch/news?nid=1385,23736
+2012-04-01,Meisterschaft,2011-12,538,,Zürich,YB  ,2,2,1,0,https://www.bscyb.ch/news?nid=1402,13900
+2012-04-04,Testspiel,2011-12,539,,Köniz,YB  ,1,4,1,1,https://www.bscyb.ch/news?nid=1407,898
+2012-04-09,Meisterschaft,2011-12,540,,YB,Lausanne  ,1,3,0,2,https://www.bscyb.ch/news?nid=1414,16577
+2012-04-14,Meisterschaft,2011-12,541,,YB,GC  ,2,2,1,1,https://www.bscyb.ch/news?nid=1423,16592
+2012-04-17,Testspiel,2011-12,542,,Fribourg,YB  ,0,7,0,2,https://www.bscyb.ch/news?nid=1427,300
+2012-04-24,Testspiel,2011-12,543,,Grenchen,YB  ,0,8,0,3,https://www.bscyb.ch/news?nid=1434,80
+2012-04-28,Meisterschaft,2011-12,544,,Servette,YB  ,2,1,0,0,https://www.bscyb.ch/news?nid=1439,9367
+2012-05-01,Meisterschaft,2011-12,545,,YB,Zürich  ,1,0,1,0,https://www.bscyb.ch/news?nid=1444,17236
+2012-05-05,Meisterschaft,2011-12,546,,YB,Luzern  ,2,2,1,0,https://www.bscyb.ch/news?nid=1455,20388
+2012-05-13,Meisterschaft,2011-12,547,,Thun,YB  ,2,2,2,1,https://www.bscyb.ch/news?nid=1465,9100
+2012-05-20,Meisterschaft,2011-12,548,,YB,Sion  ,3,0,1,0,https://www.bscyb.ch/news?nid=1475,18411
+2012-05-23,Meisterschaft,2011-12,549,,Basel,YB  ,1,2,1,1,https://www.bscyb.ch/news?nid=1487,36000
+2012-07-02,Testspiel,2012-13,551,,YB,Wil  ,3,0,0,0,http://www.bscyb.ch/news-events?nid=1544,1300
+2012-07-04,Testspiel,2012-13,552,,YB,Schachtar Donezk  ,3,4,2,4,http://www.bscyb.ch/news-events?nid=1547,2200
+2012-07-07,Testspiel,2012-13,553,,YB, München  ,1860,1,1,0,http://www.bscyb.ch/news-events?nid=1554,2950
+2012-07-15,Meisterschaft,2012-13,554,,St. Gallen,YB  ,1,1,0,1,http://www.bscyb.ch/news-events?nid=1563,12893
+2012-07-19,UEL-Qualifikation,2012-13,555,,YB,Zimbru Chisinau  ,1,0,0,0,http://www.bscyb.ch/news-events?nid=1567,9117
+2012-07-22,Meisterschaft,2012-13,556,,YB,GC  ,0,1,0,0,http://www.bscyb.ch/news-events?nid=1571,18711
+2012-07-26,UEL-Qualifikation,2012-13,557,,Zimbru,YB  nP ,1,4,1,0,http://www.bscyb.ch/news-events?nid=1580,4500
+2012-07-29,Meisterschaft,2012-13,558,,YB,Thun  ,3,0,2,0,http://www.bscyb.ch/news-events?nid=1584,22212
+2012-08-02,UEL-Qualifikation,2012-13,559,,Kalmar,YB  ,1,0,1,0,http://www.bscyb.ch/news-events?nid=1590,3681
+2012-08-05,Meisterschaft,2012-13,560,,Servette,YB  ,1,1,1,1,http://www.bscyb.ch/news-events?nid=1593,4819
+2012-08-09,UEL-Qualifikation,2012-13,561,,YB,Kalmar  ,3,0,1,0,http://www.bscyb.ch/news-events?nid=1600,10124
+2012-08-12,Meisterschaft,2012-13,562,,YB,Zürich  ,4,1,2,1,http://www.bscyb.ch/news-events?nid=1606,18160
+2012-08-19,Meisterschaft,2012-13,563,,Sion,YB  ,1,0,1,0,http://www.bscyb.ch/news-events?nid=1616,12500
+2012-08-23,UEL-Play-off,2012-13,564,,Midtjylland,YB  ,0,3,0,1,http://www.bscyb.ch/news-events?nid=1624,4522
+2012-08-26,Meisterschaft,2012-13,565,,YB,Lausanne ,0,0,,,http://www.bscyb.ch/news-events?nid=1628,17132
+2012-08-30,UEL-Play-off,2012-13,566,,YB,Midtjylland  ,0,2,0,0,http://www.bscyb.ch/news-events?nid=1635,9327
+2012-09-02,Meisterschaft,2012-13,567,,Luzern,YB  ,1,2,0,1,http://www.bscyb.ch/news-events?nid=1643,12874
+2012-09-11,Testspiel,2012-13,568,,Breitenrain,YB  ,1,6,1,1,http://www.bscyb.ch/news-events?nid=1652,1000
+2012-09-15,Schweizer Cup,2012-13,569,,Wettswil-Bonstetten,YB  ,1,5,1,3,http://www.bscyb.ch/news-events?nid=1658,3000
+2012-09-20,UEL,2012-13,570,,YB,Liverpool  ,3,5,1,2,http://www.bscyb.ch/news-events?nid=1665,31120
+2012-09-23,Meisterschaft,2012-13,571,,YB,Basel  ,1,1,0,0,http://www.bscyb.ch/news-events?nid=1668,22757
+2012-09-27,Meisterschaft,2012-13,572,,Thun,YB  ,2,1,0,0,http://www.bscyb.ch/news-events?nid=1672,7022
+2012-09-30,Meisterschaft,2012-13,573,,YB,Servette  ,6,2,3,0,http://www.bscyb.ch/news-events?nid=1675,16404
+2012-10-04,UEL,2012-13,574,,Anji,Makhachkala,2,0,0,0,http://www.bscyb.ch/news-events?nid=1685,10000
+2012-10-07,Meisterschaft,2012-13,575,,Zürich,YB  ,1,1,1,0,http://www.bscyb.ch/news-events?nid=1687,10073
+2012-10-21,Meisterschaft,2012-13,576,,GC,YB  ,3,2,3,0,http://www.bscyb.ch/news-events?nid=1699,11900
+2012-10-25,UEL,2012-13,577,,YB,Udinese Calcio  ,3,1,1,0,http://www.bscyb.ch/news-events?nid=1704,20143
+2012-11-03,Meisterschaft,2012-13,578,,Basel,YB  ,2,0,2,0,http://www.bscyb.ch/news-events?nid=1717,30057
+2012-11-08,UEL,2012-13,579,,Udinese Calcio,YB  ,2,3,0,1,http://www.bscyb.ch/news-events?nid=1724,13000
+2012-11-11,Schweizer Cup,2012-13,580,,Muttenz,YB  ,1,5,0,3,http://www.bscyb.ch/news-events?nid=1729,2952
+2012-11-18,Meisterschaft,2012-13,581,,YB,St Gallen ,0,0,,,http://www.bscyb.ch/news-events?nid=1737,19904
+2012-11-22,UEL,2012-13,582,,Liverpool,YB  ,2,2,1,0,http://www.bscyb.ch/news-events?nid=1758,37810
+2012-11-25,Meisterschaft,2012-13,583,,Lausanne,YB  ,2,1,1,0,http://www.bscyb.ch/news-events?nid=1770,7200
+2012-11-28,Meisterschaft,2012-13,584,,YB,Luzern  ,2,1,2,1,http://www.bscyb.ch/news-events?nid=1779,16537
+2012-12-02,Meisterschaft,2012-13,585,,YB,Sion  ,3,1,1,1,http://www.bscyb.ch/news-events?nid=1789,17737
+2012-12-06,UEL,2012-13,586,,YB,Anji Makhachkala  ,3,1,1,1,http://www.bscyb.ch/news-events?nid=1803,17132
+2012-12-09,Schweizer Cup,2012-13,587,,Wil,YB  nV,4,3,,,http://www.bscyb.ch/news-events?nid=1807,1710
+2013-01-15,Testspiel,2012-13,589,,Thun,YB  ,0,1,0,1,http://www.bscyb.ch/news-events?nid=1839,724
+2013-01-21,Testspiel,2012-13,590,,YB,Dnipro  ,0,1,0,1,http://www.bscyb.ch/news-events?nid=1850,50
+2013-01-23,Testspiel,2012-13,591,,YB,Marbella  ,6,0,1,0,http://www.bscyb.ch/news-events?nid=1857,70
+2013-01-25,Testspiel,2012-13,592,,YB,Cluj  ,1,1,0,1,http://www.bscyb.ch/news-events?nid=1862,70
+2013-01-29,Testspiel,2012-13,593,,Wohlen,YB  ,2,1,0,1,http://www.bscyb.ch/news-events?nid=1867,300
+2013-02-02,Testspiel,2012-13,594,,Winterthur,YB  ,0,2,0,1,http://www.bscyb.ch/news-events?nid=1873,500
+2013-02-09,Meisterschaft,2012-13,595,,YB,Luzern  ,3,2,2,0,http://www.bscyb.ch/news-events?nid=1894,14597
+2013-02-16,Meisterschaft,2012-13,596,,GC,YB  ,2,0,1,0,http://www.bscyb.ch/news-events?nid=1908,5200
+2013-02-23,Meisterschaft,2012-13,597,,Zürich,YB  ,4,0,1,0,http://www.bscyb.ch/news-events?nid=1922,8599
+2013-03-03,Meisterschaft,2012-13,598,,YB,St Gallen  ,2,0,0,0,http://www.bscyb.ch/news-events?nid=1933,15192
+2013-03-10,Meisterschaft,2012-13,599,,Basel,YB  ,3,0,1,0,http://www.bscyb.ch/news-events?nid=1953,27818
+2013-03-17,Meisterschaft,2012-13,600,,YB,Sion ,0,0,,,http://www.bscyb.ch/news-events?nid=1964,15173
+2013-03-26,Testspiel,2012-13,601,,YB,Düdingen  ,3,1,2,0,http://www.bscyb.ch/news-events?nid=1980,200
+2013-04-01,Meisterschaft,2012-13,602,,Lausanne,YB ,0,0,,,http://www.bscyb.ch/news-events?nid=1988,5300
+2013-04-07,Meisterschaft,2012-13,603,,YB,Servette  ,0,2,0,0,http://www.bscyb.ch/news-events?nid=1997,13817
+2013-04-14,Meisterschaft,2012-13,604,,YB,Thun  ,1,2,1,1,http://www.bscyb.ch/news-events?nid=2010,19011
+2013-04-21,Meisterschaft,2012-13,605,,Sion,YB ,0,0,,,http://www.bscyb.ch/news-events?nid=2022&pid=1&filter=,9100
+2013-04-28,Meisterschaft,2012-13,606,,YB,Lausanne  ,3,1,1,0,http://www.bscyb.ch/news-events?nid=2038,13413
+2013-05-04,Meisterschaft,2012-13,607,,St. Gallen,YB  ,3,1,0,1,http://www.bscyb.ch/news-events?nid=2054,13370
+2013-05-07,Meisterschaft,2012-13,608,,YB,GC  ,4,0,1,0,http://www.bscyb.ch/news-events?nid=2062,15069
+2013-05-11,Meisterschaft,2012-13,609,,Luzern,YB  ,3,1,1,1,http://www.bscyb.ch/news-events?nid=2070,12619
+2013-05-18,Meisterschaft,2012-13,610,,Servette,YB  ,0,1,0,1,http://www.bscyb.ch/news-events?nid=2083,4281
+2013-05-26,Meisterschaft,2012-13,611,,YB,Zürich  ,2,4,1,2,http://www.bscyb.ch/news-events?nid=2093,16127
+2013-05-29,Meisterschaft,2012-13,612,,YB,Basel  ,0,1,0,0,http://www.bscyb.ch/news-events?nid=2103,19322
+2013-06-01,Meisterschaft,2012-13,613,,Thun,YB  ,2,2,0,1,http://www.bscyb.ch/news-events?nid=2116,6000
+2013-06-19,Testspiel,2013-14,614,,YB,Aarau  ,1,2,0,0,http://www.bscyb.ch/news-events?nid=2146&pid=0,1000
+2013-06-23,Testspiel,2013-14,615,,YB,Servette  ,2,1,1,1,http://www.bscyb.ch/news-events?nid=2151&pid=0,800
+2013-07-02,Testspiel,2013-14,617,,YB,Dynamo Moskau  ,4,1,1,1,http://www.bscyb.ch/news-events?nid=2169&pid=0,2130
+2013-07-05,Testspiel,2013-14,618,,YB,Slavia Prag  ,2,2,0,1,http://www.bscyb.ch/news-events?nid=2174&pid=0,2050
+2013-07-13,Meisterschaft,2013-14,620,,YB,Sion  ,2,0,2,0,http://www.bscyb.ch/news-events?nid=2186,19322
+2013-07-20,Meisterschaft,2013-14,621,,Lausanne,YB  ,1,3,0,3,http://www.bscyb.ch/news-events?nid=2196,4900
+2013-07-28,Meisterschaft,2013-14,622,,YB,Thun  ,3,2,0,2,http://www.bscyb.ch/news-events?nid=3211,20328
+2013-08-04,Meisterschaft,2013-14,623,,Zürich,YB  ,1,3,0,2,http://www.bscyb.ch/news-events?nid=3222,10060
+2013-08-10,Meisterschaft,2013-14,624,,Aarau,YB  ,0,4,0,1,http://www.bscyb.ch/news-events?nid=3242,7232
+2013-08-17,Schweizer Cup,2013-14,625,,Veyrier,YB  ,0,8,0,1,http://www.bscyb.ch/news-events?nid=3255,2150
+2013-08-25,Meisterschaft,2013-14,626,,YB,GC  ,1,2,1,1,http://www.bscyb.ch/news-events?nid=3270,25031
+2013-09-01,Meisterschaft,2013-14,627,,Basel,YB  ,2,1,0,0,http://www.bscyb.ch/news-events?nid=3281,32190
+2013-09-06,Testspiel,2013-14,628,,YB,Schaffhausen  ,1,0,1,0,http://www.bscyb.ch/news-events?nid=3296,200
+2013-09-14,Schweizer Cup,2013-14,629,,YF Juventus,YB  ,2,4,2,1,http://www.bscyb.ch/news-events?nid=3310,1500
+2013-09-21,Meisterschaft,2013-14,630,,YB,Luzern  ,0,1,0,0,http://www.bscyb.ch/news-events?nid=3322,19230
+2013-09-24,Meisterschaft,2013-14,631,,St. Gallen,YB ,0,0,,,http://www.bscyb.ch/news-events?nid=3331,12406
+2013-09-29,Meisterschaft,2013-14,632,,YB,Zürich  ,0,1,0,0,http://www.bscyb.ch/news-events?nid=3342,16137
+2013-10-05,Meisterschaft,2013-14,633,,Sion,YB  ,2,2,1,0,http://www.bscyb.ch/news-events?nid=3353,7000
+2013-10-10,Testspiel,2013-14,634,,Breitenrain,YB  ,1,2,1,1,http://www.bscyb.ch/news-events?nid=3365,800
+2013-10-20,Meisterschaft,2013-14,635,,Luzern,YB  ,1,1,1,0,http://www.bscyb.ch/news-events?nid=3382,12071
+2013-10-26,Meisterschaft,2013-14,636,,YB,Aarau  ,3,0,1,0,http://www.bscyb.ch/news-events?nid=3394,17215
+2013-11-03,Meisterschaft,2013-14,637,,GC,YB  ,0,1,0,0,http://www.bscyb.ch/news-events?nid=3406,9400
+2013-11-09,Schweizer Cup,2013-14,638,,Le Mont,YB  ,4,1,2,1,http://www.bscyb.ch/news-events?nid=3418,2000
+2013-11-16,Testspiel,2013-14,639,,YB,Milan  ,1,3,1,0,http://www.bscyb.ch/news-events?nid=3432,12272
+2013-11-23,Meisterschaft,2013-14,640,,YB,Lausanne  ,3,2,2,0,http://www.bscyb.ch/news-events?nid=3444,13838
+2013-12-01,Meisterschaft,2013-14,641,,YB,Basel  ,2,2,1,2,http://www.bscyb.ch/news-events?nid=3457,23221
+2013-12-08,Meisterschaft,2013-14,642,,Thun,YB  ,1,0,1,0,http://www.bscyb.ch/news-events?nid=3468,7517
+2013-12-15,Meisterschaft,2013-14,643,,YB,St Gallen  ,1,0,1,0,http://www.bscyb.ch/news-events?nid=3482,18013
+2014-01-10,Testspiel,2013-14,645,,YB,Leverkusen  ,2,2,0,1,http://www.bscyb.ch/news-events?nid=3516,150
+2014-01-14,Testspiel,2013-14,646,,YB,Benfica Lissabon B  ,1,4,1,1,http://www.bscyb.ch/news-events?nid=3523,500
+2014-01-18,Testspiel,2013-14,647,,YB,Skenderbeu Korce  ,2,0,0,0,http://www.bscyb.ch/news-events?nid=3532,50
+2014-01-25,Testspiel,2013-14,648,,Lugano,YB ,0,0,,,,
+2014-01-28,Testspiel,2013-14,649,,YB,Köniz  ,3,1,3,0,http://www.bscyb.ch/news-events?nid=4549,850
+2014-02-02,Meisterschaft,2013-14,650,,YB,Thun  ,2,1,0,0,http://www.bscyb.ch/news-events?nid=4557,14119
+2014-02-08,Meisterschaft,2013-14,651,,Basel,YB  ,3,2,1,2,http://www.bscyb.ch/news-events?nid=4567,27225
+2014-02-16,Meisterschaft,2013-14,652,,YB,Lausanne  ,5,3,4,2,http://www.bscyb.ch/news-events?nid=4582,13273
+2014-02-23,Meisterschaft,2013-14,653,,Luzern,YB  ,1,2,0,1,http://www.bscyb.ch/news-events?nid=5592,10816
+2014-02-26,Meisterschaft,2013-14,654,,Sion,YB  ,3,0,1,0,http://www.bscyb.ch/news-events?nid=5603,4500
+2014-03-09,Meisterschaft,2013-14,655,,YB,Zürich  ,1,3,0,0,http://www.bscyb.ch/news-events?nid=5621,17297
+2014-03-15,Meisterschaft,2013-14,656,,St. Gallen,YB  ,1,1,1,1,http://www.bscyb.ch/news-events?nid=5630,13157
+2014-03-23,Meisterschaft,2013-14,657,,YB,GC  ,0,4,0,0,http://www.bscyb.ch/news-events?nid=5639,16079
+2014-03-29,Meisterschaft,2013-14,658,,Aarau,YB  ,2,1,0,0,http://www.bscyb.ch/news-events?nid=5656,6153
+2014-04-06,Meisterschaft,2013-14,659,,YB,Luzern  ,2,1,2,0,http://www.bscyb.ch/news-events?nid=5669,17201
+2014-04-13,Meisterschaft,2013-14,660,,Zürich,YB  ,2,2,1,2,http://www.bscyb.ch/news-events?nid=5684,9378
+2014-04-17,Meisterschaft,2013-14,661,,YB,Sion ,0,0,,,http://www.bscyb.ch/news-events?nid=5692,15701
+2014-04-27,Meisterschaft,2013-14,662,,Lausanne,YB  ,0,1,0,0,http://www.bscyb.ch/news-events?nid=5700,3050
+2014-05-04,Meisterschaft,2013-14,663,,GC,YB  ,5,0,2,0,http://www.bscyb.ch/news-events?nid=5710,0
+2014-05-07,Meisterschaft,2013-14,664,,YB,Aarau  ,2,2,1,0,http://www.bscyb.ch/news-events?nid=5719,12988
+2014-05-11,Meisterschaft,2013-14,665,,YB,Basel  ,3,1,1,0,http://www.bscyb.ch/news-events?nid=5724,20278
+2014-05-15,Meisterschaft,2013-14,666,,Thun,YB  ,0,3,0,2,http://www.bscyb.ch/news-events?nid=5734,9114
+2014-05-18,Meisterschaft,2013-14,667,,YB,St Gallen  ,2,0,1,0,http://www.bscyb.ch/news-events?nid=5739,16686
+2014-06-14,Testspiel,2014-15,668,,Thun,YB,2,1,1,1,http://www.bscyb.ch/news-events?nid=5784,700
+2014-06-21,Testspiel,2014-15,669,,YB,Schaffhausen,4,3,1,1,http://www.bscyb.ch/news-events?nid=5794,500
+2014-06-24,Testspiel,2014-15,670,,YB,Winterthur,3,1,1,1,http://www.bscyb.ch/news-events?nid=5797,500
+2014-06-28,Testspiel,2014-15,671,,YB,Lausanne,0,0,,,http://www.bscyb.ch/news-events?nid=5806,500
+2014-07-11,Testspiel,2014-15,674,,YB,Reims,0,0,,,http://www.bscyb.ch/news-events?nid=5834,800
+2014-07-15,Testspiel,2014-15,675,,YB,Wil,1,1,1,1,http://www.bscyb.ch/news-events?nid=5840,1120
+2014-07-19,Meisterschaft,2014-15,676,,St. Gallen,YB,2,2,1,1,http://www.bscyb.ch/news-events?nid=5845,12227
+2014-07-27,Meisterschaft,2014-15,677,,YB,Aarau,1,1,0,1,http://www.bscyb.ch/news-events?nid=5857,16917
+2014-07-31,Europa League Qualifikation,2014-15,678,,YB,Ermis Aradippou,1,0,0,0,http://www.bscyb.ch/news-events?nID=5865,7346
+2014-08-03,Meisterschaft,2014-15,679,,Zürich,YB,2,1,0,0,http://www.bscyb.ch/news-events?nID=5871,10295
+2014-08-07,Europa League Qualifikation,2014-15,680,,Ermis Aradippou,YB,0,2,0,1,http://www.bscyb.ch/news-events?nID=5880,1000
+2014-08-10,Meisterschaft,2014-15,681,,YB,Thun,1,1,1,1,http://www.bscyb.ch/news-events?nID=5886,20923
+2014-08-13,Meisterschaft,2014-15,682,,YB,GC,4,0,1,0,http://www.bscyb.ch/news-events?nID=5893,14362
+2014-08-17,Meisterschaft,2014-15,683,,Vaduz,YB,0,2,0,1,http://www.bscyb.ch/news-events?nID=5902,3855
+2014-08-21,Europa League Playoff,2014-15,684,,YB,Debrecen,3,1,1,1,http://www.bscyb.ch/news-events?nID=5912,7929
+2014-08-24,Schweizer Cup,2014-15,685,,Bavois,YB,0,1,0,0,http://www.bscyb.ch/news-events?nID=5915,22
+2014-08-28,Europa League Playoff,2014-15,686,,Debrecen,YB,0,0,,,http://www.bscyb.ch/news-events?nID=5924,6000
+2014-08-31,Meisterschaft,2014-15,687,,Basel,YB,3,1,2,1,http://www.bscyb.ch/news-events?nID=5935,31103
+2014-09-03,Testspiel,2014-15,688,,Münsingen,YB,0,2,0,0,http://www.bscyb.ch/news-events?nID=5945,900
+2014-09-14,Meisterschaft,2014-15,689,,YB,Luzern,3,2,2,1,http://www.bscyb.ch/news-events?nID=5959,18130
+2014-09-18,Europa League,2014-15,690,,YB,Slovan Bratislava,5,0,2,0,http://www.bscyb.ch/news-events?nID=5968,10010
+2014-09-20,Schweizer Cup,2014-15,691,,Buochs,YB,1,0,1,0,http://www.bscyb.ch/news-events?nID=5974,2251
+2014-09-24,Meisterschaft,2014-15,692,,Sion,YB,0,1,0,0,http://www.bscyb.ch/news-events?nID=5980,7500
+2014-09-28,Meisterschaft,2014-15,693,,YB,Zürich,2,1,1,0,http://www.bscyb.ch/news-events?nID=5987,16376
+2014-10-02,Europa League,2014-15,694,,Sparta Prag,YB,3,1,2,0,http://www.bscyb.ch/news-events?nID=6003,10200
+2014-10-05,Meisterschaft,2014-15,695,,Aarau,YB,3,2,1,2,http://www.bscyb.ch/news-events?nid=5991&pid=0,5184
+2014-10-10,Testspiel,2014-15,696,,SC Freiburg,YB,2,1,0,0,http://www.bscyb.ch/news-events?nID=5992,2200
+2014-10-18,Meisterschaft,2014-15,697,,YB,Basel,0,1,0,1,http://www.bscyb.ch/news-events?nID=6020,22002
+2014-10-23,Europa League,2014-15,698,,YB,Napoli,2,0,1,0,http://www.bscyb.ch/news-events?nID=6029,24024
+2014-11-02,Meisterschaft,2014-15,699,,YB,Vaduz,0,1,0,0,http://www.bscyb.ch/news-events?nID=6042,16442
+2014-11-09,Meisterschaft,2014-15,701,,YB,Sion,2,1,1,1,http://www.bscyb.ch/news-events?nID=6058,15345
+2014-11-23,Meisterschaft,2014-15,702,,Thun,YB,0,1,0,0,http://www.bscyb.ch/news-events?nID=6074,9516
+2014-11-27,Europa League,2014-15,703,,Slovan Bratislava,YB,1,3,1,2,http://www.bscyb.ch/news-events?nID=6080,3495
+2014-11-30,Meisterschaft,2014-15,704,,YB,St Gallen,4,2,2,2,http://www.bscyb.ch/news-events?nID=6086,17588
+2014-12-03,Meisterschaft,2014-15,705,,Luzern,YB,1,2,0,1,http://www.bscyb.ch/news-events?nID=6093,8817
+2014-12-06,Meisterschaft,2014-15,706,,GC,YB,0,1,0,1,http://www.bscyb.ch/news-events?nID=6096,5600
+2014-12-11,Europa League,2014-15,707,,YB,Sparta Prag,2,0,0,0,http://www.bscyb.ch/news-events?nID=6103,15150
+2015-01-17,Testspiel,2014-15,709,,YB,Hannover,0,1,0,1,,
+2015-01-20,Testspiel,2014-15,710,,YB,Hertha BSC,5,3,,,,
+2015-01-23,Testspiel,2014-15,711,,YB,Greuther Fürth,2,4,1,2,,
+2015-01-31,Testspiel,2014-15,712,,Locarno,YB,1,3,0,2,http://www.bscyb.ch/news-events?nID=6155,300
+2015-02-03,Testspiel,2014-15,713,,YB,Biel,1,3,1,2,http://www.bscyb.ch/news-events?nID=6166,150
+2015-02-07,Meisterschaft,2014-15,714,,Luzern,YB,1,1,0,0,http://www.bscyb.ch/news-events?nID=6175,9059
+2015-02-10,Testspiel,2014-15,715,,YB,Le Mont,1,1,0,0,http://www.bscyb.ch/news-events?nID=6182,100
+2015-02-14,Meisterschaft,2014-15,716,,YB,GC,4,2,2,0,http://www.bscyb.ch/news-events?nID=6191,12660
+2015-02-19,Europa League,2014-15,717,,YB,Everton,1,4,1,3,http://www.bscyb.ch/news-events?nID=6201,20835
+2015-02-22,Meisterschaft,2014-15,718,,YB,Basel,4,2,2,0,http://www.bscyb.ch/news-events?nID=6205,17420
+2015-02-26,Europa League,2014-15,719,,Everton,YB,3,1,3,1,http://www.bscyb.ch/news-events?nID=6214,25058
+2015-03-01,Meisterschaft,2014-15,720,,Thun,YB,0,0,,,http://www.bscyb.ch/news-events?nID=6220,8139
+2015-03-08,Meisterschaft,2014-15,721,,YB,Sion,3,2,2,0,http://www.bscyb.ch/news-events?nID=6227,14630
+2015-03-15,Meisterschaft,2014-15,722,,Aarau,YB,1,1,1,0,http://www.bscyb.ch/news-events?nID=6242,5041
+2015-03-22,Meisterschaft,2014-15,723,,YB,Zürich,3,0,2,0,http://www.bscyb.ch/news-events?nID=6254,18560
+2015-03-26,Testspiel,2014-15,724,,Breitenrain,YB,0,6,0,4,http://www.bscyb.ch/news-events?nID=6261,850
+2015-04-03,Meisterschaft,2014-15,725,,Vaduz,YB,0,1,0,1,http://www.bscyb.ch/news-events?nID=6269,4827
+2015-04-11,Meisterschaft,2014-15,726,,St. Gallen,YB,3,1,0,1,http://www.bscyb.ch/news-events?nID=6277,15167
+2015-04-19,Meisterschaft,2014-15,727,,YB,Thun,4,0,2,0,http://www.bscyb.ch/news-events?nID=6288,23868
+2015-04-26,Meisterschaft,2014-15,728,,GC,YB,2,2,0,1,http://www.bscyb.ch/news-events?nID=6299,5800
+2015-04-29,Meisterschaft,2014-15,729,,YB,Aarau,2,2,0,1,http://www.bscyb.ch/news-events?nID=6303,13170
+2015-05-03,Meisterschaft,2014-15,730,,Zürich,YB,0,1,0,1,http://www.bscyb.ch/news-events?nID=6304,9169
+2015-05-10,Meisterschaft,2014-15,731,,YB,St Gallen,3,1,2,0,http://www.bscyb.ch/news-events?nID=6305,15860
+2015-05-17,Meisterschaft,2014-15,732,,Basel,YB,0,0,,,http://www.bscyb.ch/news-events?nID=6306,34231
+2015-05-21,Meisterschaft,2014-15,733,,YB,Luzern,0,1,0,1,http://www.bscyb.ch/news-events?nID=6307,14430
+2015-05-25,Meisterschaft,2014-15,734,,Sion,YB,6,2,3,1,http://www.bscyb.ch/news-events?nID=6308,10000
+2015-05-29,Meisterschaft,2014-15,735,,YB,Vaduz,2,1,0,0,http://www.bscyb.ch/news-events?nID=6309,16082
+2015-06-20,Testspiel,2015-16,736,,YB,Schaffhausen,4,3,1,3,http://www.bscyb.ch/news-events?nID=6379,43
+2015-07-01,Testspiel,2015-16,738,,YB,Lausanne,2,1,1,1,http://www.bscyb.ch/news-events?nID=6385,800
+2015-07-05,Testspiel,2015-16,739,,YB,Wohlen,5,2,3,2,http://www.bscyb.ch/news-events?nID=6401,751
+2015-07-08,Testspiel,2015-16,740,,Biel,YB,3,0,1,0,http://www.bscyb.ch/news-events?nID=6410,1710
+2015-07-11,Testspiel / Saisonstart-Event,2015-16,741,,YB,Stuttgart,4,1,3,1,http://www.bscyb.ch/news-events?nID=6414,6000
+2015-07-14,Testspiel,2015-16,742,,Xamax,YB,1,3,1,0,http://www.bscyb.ch/news-events?nID=6424,950
+2015-07-18,Meisterschaft,2015-16,743,,Zürich,YB,1,1,0,0,http://www.bscyb.ch/news-events?nID=6431,8894
+2015-07-25,Meisterschaft,2015-16,744,,YB,Luzern,1,1,1,1,http://www.bscyb.ch/news-events?nID=6441,16865
+2015-07-28,Champions League Qualifikation,2015-16,745,,YB,Monaco,1,3,0,0,http://www.bscyb.ch/news-events?nID=6449,16079
+2015-08-01,Meisterschaft,2015-16,746,,St. Gallen,YB,1,1,0,0,http://www.bscyb.ch/news-events?nID=6455,12932
+2015-08-09,Meisterschaft,2015-16,748,,YB,Thun,3,1,2,1,http://www.bscyb.ch/news-events?nID=6468,27340
+2015-08-12,Meisterschaft,2015-16,749,,YB,Lugano,0,1,0,1,http://www.bscyb.ch/news-events?nID=6474,14174
+2015-08-15,Schweizer Cup,2015-16,750,,Kriens,YB,1,2,0,1,http://www.bscyb.ch/news-events?nid=6479,2312
+2015-08-20,Europa League Playoffs,2015-16,751,,YB,Karabach,0,1,0,0,http://www.bscyb.ch/news-events?nID=6485,6700
+2015-08-23,Meisterschaft,2015-16,752,,Sion,YB,1,3,0,1,http://www.bscyb.ch/news-events?nID=6487,10000
+2015-08-27,Europa League Playoffs,2015-16,753,,Karabach,YB,3,0,2,0,http://www.bscyb.ch/news-events?nID=6493,30000
+2015-08-30,Meisterschaft,2015-16,754,,GC,YB,3,2,2,0,http://www.bscyb.ch/news-events?nID=6496,7300
+2015-09-12,Meisterschaft,2015-16,755,,YB,Vaduz,4,0,3,0,http://www.bscyb.ch/news-events?nID=6516,15383
+2015-09-20,Schweizer Cup,2015-16,756,,Chiasso,YB,0,2,0,1,http://www.bscyb.ch/news-events?nID=6523,1420
+2015-09-23,Meisterschaft,2015-16,757,,YB,Basel,4,3,2,1,http://www.bscyb.ch/news-events?nID=6528,19403
+2015-09-27,Meisterschaft,2015-16,758,,Thun,YB,0,1,0,1,http://www.bscyb.ch/news-events?nID=6534,8026
+2015-09-29,Testspiel (1. Mannschaft / U21),2015-16,759,,YB,Breitenrain,6,1,4,1,,
+2015-10-04,Meisterschaft,2015-16,760,,YB,GC,3,1,2,0,http://www.bscyb.ch/news-events?nID=6547,22521
+2015-10-17,Meisterschaft,2015-16,761,,Vaduz,YB,1,1,1,1,http://www.bscyb.ch/news-events?nID=6561,3427
+2015-10-25,Meisterschaft,2015-16,762,,Basel,YB,1,0,1,0,http://www.bscyb.ch/news-events?nID=6568,33360
+2015-10-29,Schweizer Cup,2015-16,763,,YB,Zürich,1,3,0,0,http://www.bscyb.ch/news-events?nID=6574,10010
+2015-11-01,Meisterschaft,2015-16,764,,YB,Zürich,1,1,0,1,http://www.bscyb.ch/news-events?nID=6577,17450
+2015-11-07,Meisterschaft,2015-16,765,,Lugano,YB,1,1,1,0,http://www.bscyb.ch/news-events?nID=6583,5715
+2015-11-22,Meisterschaft,2015-16,766,,YB,Sion,1,1,0,0,http://www.bscyb.ch/news-events?nID=6594,17951
+2015-11-28,Meisterschaft,2015-16,767,,YB,St Gallen,2,1,2,1,http://www.bscyb.ch/news-events?nID=6601,15319
+2015-12-05,Meisterschaft,2015-16,768,,Luzern,YB,3,1,1,0,http://www.bscyb.ch/news-events?nID=6606,11828
+2016-01-15,Testspiel,2015-16,770,,YB,HSV,2,1,1,0,http://www.bscyb.ch/news-events?nID=6636,644
+2016-01-19,Testspiel,2015-16,771,,YB,Steaua Bukarest,2,2,1,1,http://www.bscyb.ch/news-events?nID=6641,300
+2016-01-23,Testspiel,2015-16,772,,YB,Sturm Graz,1,4,0,0,http://www.bscyb.ch/news-events?nID=6647,100
+2016-01-30,Testspiel,2015-16,773,,YB,Wohlen,3,1,2,1,http://www.bscyb.ch/news-events?nID=6657,1000
+2016-02-02,Testspiel,2015-16,774,,YB,Le Mont,5,0,1,0,http://www.bscyb.ch/news-events?nID=6664,414
+2016-02-06,Meisterschaft,2015-16,775,,YB,GC,1,1,1,1,http://www.bscyb.ch/news-events?nID=6673,14412
+2016-02-13,Meisterschaft,2015-16,776,,Vaduz,YB,1,1,1,0,http://www.bscyb.ch/news-events?nID=6686,2900
+2016-02-20,Meisterschaft,2015-16,777,,YB,Thun,2,1,1,0,http://www.bscyb.ch/news-events?nID=6696,13457
+2016-02-27,Meisterschaft,2015-16,778,,Zürich,YB,0,1,0,0,http://www.bscyb.ch/news-events?nID=6705,7747
+2016-03-06,Meisterschaft,2015-16,779,,YB,Luzern,5,2,2,1,http://www.bscyb.ch/news-events?nID=6719,16051
+2016-03-13,Meisterschaft,2015-16,780,,YB,Sion,3,2,1,2,http://www.bscyb.ch/news-events?nID=6730,14555
+2016-03-24,Testspiel,2015-16,782,,YB,Aarau,5,1,2,1,http://www.bscyb.ch/news-events?nID=6755,410
+2016-04-03,Meisterschaft,2015-16,783,,Basel,YB,2,0,0,0,http://www.bscyb.ch/news-events?nID=6766,31600
+2016-04-09,Meisterschaft,2015-16,784,,YB,Lugano,7,0,4,0,http://www.bscyb.ch/news-events?nID=6774,13102
+2016-04-17,Meisterschaft,2015-16,785,,YB,Vaduz,5,4,2,2,http://www.bscyb.ch/news-events?nID=6790,13779
+2016-04-20,Meisterschaft,2015-16,786,,Luzern,YB,2,3,1,2,http://www.bscyb.ch/news-events?nID=6796,9460
+2016-04-24,Meisterschaft,2015-16,787,,YB,Zürich,3,0,1,0,http://www.bscyb.ch/news-events?nID=6802,17150
+2016-04-30,Meisterschaft,2015-16,788,,GC,YB,1,2,0,2,http://www.bscyb.ch/news-events?nid=6811,5200
+2016-05-08,Meisterschaft,2015-16,789,,Sion,YB,2,1,2,1,http://www.bscyb.ch/news-events?nID=6823,9200
+2016-05-12,Meisterschaft,2015-16,790,,YB,St Gallen,3,1,0,0,http://www.bscyb.ch/news-events?nID=6832,13716
+2016-05-16,Meisterschaft,2015-16,791,,Lugano,YB,1,3,1,0,http://www.bscyb.ch/news-events?nID=6836,5460
+2016-05-22,Meisterschaft,2015-16,792,,YB,Basel,2,3,0,3,http://www.bscyb.ch/news-events?nID=6847,21721
+2016-05-25,Meisterschaft,2015-16,793,,Thun,YB,0,3,0,1,http://www.bscyb.ch/news-events?nID=6858,6874
+2016-06-24,Burkhalter-Cup,2016-17,794,,YB,Breitenrain  YB,,,,,,
+2016-06-28,Testspiel,2016-17,795,,SCR Altach,YB,0,0,,,http://www.bscyb.ch/news-events?nID=6900,300
+2016-07-01,Testspiel,2016-17,796,,RB Salzburg,YB,3,1,1,0,http://www.bscyb.ch/news-events?nID=6906,1000
+2016-07-07,Testspiel,2016-17,797,,YB,Sparta Prag,2,1,0,1,,
+2016-07-13,Testspiel,2016-17,798,,YB,Mönchengladbach,3,3,4,5,http://www.bscyb.ch/news-events?nID=6927,4438
+2016-07-17,Testspiel,2016-17,799,,YB,Spartak Moskau,1,3,1,1,http://www.bscyb.ch/news-events?nID=6932,500
+2016-07-19,Testspiel,2016-17,800,,YB,Galatasaray,1,1,0,1,http://www.bscyb.ch/news-events?nID=6936,3548
+2016-07-23,Meisterschaft,2016-17,801,,St. Gallen,YB,0,2,0,0,http://www.bscyb.ch/news-events?nID=6942,12890
+2016-07-26,CL-Qualifikation,2016-17,802,,Schachtar Donezk,YB,2,0,1,0,http://www.bscyb.ch/news-events?nID=6946,5000
+2016-07-30,Meisterschaft,2016-17,803,,YB,Lugano,1,2,1,0,http://www.bscyb.ch/news-events?nID=6952,14300
+2016-08-03,CL-Qualifikation,2016-17,804,,YB,Schachtar Donezk,2,0,4,2,http://www.bscyb.ch/news-events?nID=6957,9365
+2016-08-06,Meisterschaft,2016-17,805,,YB,Thun,4,1,1,1,http://www.bscyb.ch/news-events?nID=6962,31120
+2016-08-10,Meisterschaft,2016-17,806,,Basel,YB,3,0,0,0,http://www.bscyb.ch/news-events?nID=6973,29523
+2016-08-13,Schweizer Cup,2016-17,807,,Veltheim,YB,0,6,0,2,http://www.bscyb.ch/news-events?nID=6977,2501
+2016-08-16,Playoffs CL,2016-17,808,,YB,Mönchengladbach,1,3,0,1,http://www.bscyb.ch/news-events?nID=6983,30224
+2016-08-20,Meisterschaft,2016-17,809,,YB,Lausanne,7,2,3,1,http://www.bscyb.ch/news-events?nID=6990,14665
+2016-08-24,Playoffs CL,2016-17,810,,Mönchengladbach,YB,6,1,3,0,http://www.bscyb.ch/news-events?nID=7000,43302
+2016-08-28,Meisterschaft,2016-17,811,,GC,YB,4,1,1,0,http://www.bscyb.ch/news-events?nID=7005,4800
+2016-09-10,Meisterschaft,2016-17,812,,YB,Luzern,2,1,2,0,http://www.bscyb.ch/news-events?nID=7027,16085
+2016-09-15,Europa League,2016-17,813,,YB,Olympiakos Piräus,0,1,0,1,http://www.bscyb.ch/news-events?nID=7035,11132
+2016-09-18,Schweizer Cup,2016-17,814,,Bazenheid,YB,1,7,0,1,http://www.bscyb.ch/news-events?nID=7039,3273
+2016-09-21,Meisterschaft,2016-17,815,,Vaduz,YB,0,0,,,http://www.bscyb.ch/news-events?nID=7043,3832
+2016-09-25,Meisterschaft,2016-17,816,,Sion,YB,0,0,,,http://www.bscyb.ch/news-events?nID=7048,9500
+2016-09-29,Europa League,2016-17,817,,Astana,YB,0,0,,,http://www.bscyb.ch/news-events?nID=7058,21328
+2016-10-02,Meisterschaft,2016-17,818,,YB,St Gallen,2,2,1,1,http://www.bscyb.ch/news-events?nID=7062,14928
+2016-10-16,Meisterschaft,2016-17,819,,Lugano,YB,0,0,,,http://www.bscyb.ch/news-events?nID=7081,4176
+2016-10-20,Europa League,2016-17,820,,YB,APOEL Nikosia,3,1,1,1,http://www.bscyb.ch/news-events?nid=7091&pid=0,9553
+2016-10-23,Meisterschaft,2016-17,821,,YB,GC,4,0,2,0,http://www.bscyb.ch/news-events?nID=7095,20112
+2016-10-26,"Schweizer Cup,1/8-Final",2016-17,822,,YB,GC,5,0,2,0,http://www.bscyb.ch/news-events?nID=7103,7715
+2016-10-30,Meisterschaft,2016-17,823,,YB,Vaduz,5,0,1,0,http://www.bscyb.ch/news-events?nID=7108,15020
+2016-11-03,Europa League,2016-17,824,,APOEL Nikosia,YB,1,0,0,0,http://www.bscyb.ch/news-events?nID=7115,14000
+2016-11-06,Meisterschaft,2016-17,825,,Luzern,YB,2,2,1,0,http://www.bscyb.ch/news-events?nID=7119,11880
+2016-11-20,Meisterschaft,2016-17,826,,YB,Sion,4,3,1,2,http://www.bscyb.ch/news-events?nID=7137,23188
+2016-11-24,Europa League,2016-17,827,,Olympiakos Piräus,YB,1,1,0,0,http://www.bscyb.ch/news-events?nID=7144,25000
+2016-11-27,Meisterschaft,2016-17,828,,Lausanne,YB,1,2,0,0,http://www.bscyb.ch/news-events?nID=7147,5040
+2016-12-03,Meisterschaft,2016-17,829,,YB,Basel,3,1,1,0,http://www.bscyb.ch/news-events?nID=7156,20216
+2016-12-08,Europa League,2016-17,830,,YB,Astana,3,0,0,0,http://www.bscyb.ch/news-events?nID=7161,7616
+2016-12-11,Meisterschaft,2016-17,831,,Thun,YB,2,3,1,1,http://www.bscyb.ch/news-events?nID=7164,7247
+2017-01-10,Testspiel,2016-17,833,,YB,Schaffhausen,3,4,1,3,http://www.bscyb.ch/news-events?nID=7179,300
+2017-01-15,Testspiel,2016-17,834,,YB,Hannover ,1,2,1,1,http://www.bscyb.ch/news-events?nID=7182,100
+2017-01-18,Testspiel,2016-17,835,,YB,Würzburger Kickers,2,0,0,0,http://www.bscyb.ch/news-events?nID=7192,80
+2017-01-28,Testspiel,2016-17,836,,YB,Xamax,1,1,1,0,http://www.bscyb.ch/news-events?nID=7199,1268
+2017-02-05,Meisterschaft,2016-17,837,,YB,Sion,3,1,2,0,http://www.bscyb.ch/news-events?nID=7208,13488
+2017-02-12,Meisterschaft,2016-17,838,,Luzern,YB,4,1,3,1,http://www.bscyb.ch/news-events?nID=7225,10045
+2017-02-18,Meisterschaft,2016-17,839,,YB,St Gallen,2,2,1,0,http://www.bscyb.ch/news-events?nID=7236,13186
+2017-02-25,Meisterschaft,2016-17,840,,GC,YB,2,3,1,3,http://www.bscyb.ch/news-events?nID=7243,5000
+2017-03-01,Schweizer Cup,2016-17,841,,YB,Winterthur,5,7,,,http://www.bscyb.ch/news-events?nID=7252,9462
+2017-03-04,Meisterschaft,2016-17,842,,YB,Thun,3,2,1,2,http://www.bscyb.ch/news-events?nID=7257,17533
+2017-03-12,Meisterschaft,2016-17,843,,Lausanne,YB,0,0,,,http://www.bscyb.ch/news-events?nID=7267,4011
+2017-03-19,Meisterschaft,2016-17,844,,Lugano,YB,0,2,0,0,http://www.bscyb.ch/news-events?nID=7276,4121
+2017-04-02,Meisterschaft,2016-17,845,,YB,Vaduz,3,2,1,1,http://www.bscyb.ch/news-events?nID=7294,15623
+2017-04-09,Meisterschaft,2016-17,846,,Basel,YB,1,1,0,1,http://www.bscyb.ch/news-events?nID=7302,30817
+2017-04-17,Meisterschaft,2016-17,847,,YB,GC,0,1,0,0,http://www.bscyb.ch/news-events?nID=7314,15097
+2017-04-23,Meisterschaft,2016-17,848,,YB,Lugano,1,2,0,1,http://www.bscyb.ch/news-events?nID=7323,13234
+2017-04-30,Meisterschaft,2016-17,849,,St. Gallen,YB,0,2,0,0,http://www.bscyb.ch/news-events?nID=7332,11977
+2017-05-07,Meisterschaft,2016-17,850,,Sion,YB,0,1,0,1,http://www.bscyb.ch/news-events?nID=7341,9800
+2017-05-14,Meisterschaft,2016-17,851,,YB,Luzern,4,1,3,1,http://www.bscyb.ch/news-events?nID=7352,21133
+2017-05-17,Meisterschaft,2016-17,852,,Vaduz,YB,1,0,0,0,http://www.bscyb.ch/news-events?nID=7358,3684
+2017-05-21,Meisterschaft,2016-17,853,,YB,Basel,2,1,1,1,http://www.bscyb.ch/news-events?nID=7364,18373
+2017-05-28,Meisterschaft,2016-17,854,,Thun,YB,0,0,,,http://www.bscyb.ch/news-events?nID=7375,7417
+2017-06-02,Meisterschaft,2016-17,855,,YB,Lausanne,2,0,0,0,http://www.bscyb.ch/news-events?nID=7389,16492
+2017-06-23,Burkhalter-Cup,2017-18,856,,YB,Breitenr  YB,4,,,,http://www.bscyb.ch/news-events?nID=7428,3200
+2017-06-30,Testspiel,2017-18,857,,YB,Wacker Innsbruck,3,0,2,0,http://www.bscyb.ch/news-events?nID=7436,600
+2017-07-05,Testspiel,2017-18,858,,YB,Achmat Grosny,1,4,1,1,http://www.bscyb.ch/news-events?nID=7441,400
+2017-07-12,Testspiel,2017-18,859,,YB,Stoke City,2,2,3,4,http://www.bscyb.ch/news-events?nID=7448,5037
+2017-07-15,Testspiel,2017-18,860,,YB,Benfica Lissabon,5,1,1,1,http://www.bscyb.ch/news-events?nID=7451,5200
+2017-07-22,Meisterschaft,2017-18,861,,YB,Basel,2,0,0,0,http://www.bscyb.ch/news-events?nID=7462,31120
+2017-07-26,CL-Qualifikation,2017-18,862,,Dynamo Kiew,YB,3,1,2,0,http://www.bscyb.ch/news-events?nID=7469,36381
+2017-07-29,Meisterschaft,2017-18,863,,GC,YB,0,4,0,1,http://www.bscyb.ch/news-events?nID=7472,6000
+2017-08-02,CL-Qualifikation,2017-18,864,,YB,Dynamo Kiew,2,0,1,0,http://www.bscyb.ch/news-events?nID=7477,13303
+2017-08-06,Meisterschaft,2017-18,865,,YB,Lausanne,3,0,2,0,http://www.bscyb.ch/news-events?nID=7482,17364
+2017-08-09,Meisterschaft,2017-18,866,,YB,Thun,0,4,0,3,http://www.bscyb.ch/news-events?nID=7489,16863
+2017-08-12,Schweizer Cup,2017-18,867,,Breitenrain,YB,0,3,0,1,http://www.bscyb.ch/news-events?nID=7494,6000
+2017-08-15,Playoff CL,2017-18,868,,YB,ZSKA Moskau,0,1,0,0,http://www.bscyb.ch/news-events?nID=7498,20003
+2017-08-19,Meisterschaft,2017-18,869,,Zürich,YB,0,0,,,http://www.bscyb.ch/news-events?nID=7503,15123
+2017-08-23,Playoff CL,2017-18,870,,ZSKA Moskau,YB,2,0,1,0,http://www.bscyb.ch/news-events?nID=7511,17000
+2017-08-27,Meisterschaft,2017-18,871,,St. Gallen,YB,2,2,1,1,http://www.bscyb.ch/news-events?nID=7522,11550
+2017-09-10,Meisterschaft,2017-18,872,,YB,Lugano,3,0,1,0,http://www.bscyb.ch/news-events?nID=7546,20800
+2017-09-14,Europa League,2017-18,873,,YB,Partizan Belgrad,1,1,1,1,http://www.bscyb.ch/news-events?nID=7553,13004
+2017-09-17,Schweizer Cup,2017-18,874,,Old Boys,YB,0,4,0,2,http://www.bscyb.ch/news-events?nid=7556&pid=0,2500
+2017-09-20,Meisterschaft,2017-18,875,,YB,Luzern,4,1,2,1,http://www.bscyb.ch/news-events?nID=7561,13341
+2017-09-24,Meisterschaft,2017-18,876,,Sion,YB,0,1,0,0,http://www.bscyb.ch/news-events?nID=7567,10500
+2017-09-28,Europa League,2017-18,877,,Skënderbeu Korça,YB,1,1,0,0,http://www.bscyb.ch/news-events?nID=7577,3000
+2017-10-01,Meisterschaft,2017-18,878,,YB,St Gallen,6,1,1,0,http://www.bscyb.ch/news-events?nID=7583,20098
+2017-10-14,Meisterschaft,2017-18,879,,Lausanne,YB,2,1,1,0,http://www.bscyb.ch/news-events?nID=7597,4640
+2017-10-19,Europa League,2017-18,880,,Dynamo Kiew,YB,2,2,1,2,http://www.bscyb.ch/news-events?nID=7605,21700
+2017-10-22,Meisterschaft,2017-18,881,,Luzern,YB,0,1,0,1,http://www.bscyb.ch/news-events?nID=7608,11500
+2017-10-25,Schweizer Cup,2017-18,882,,Münsingen,YB,0,3,0,0,http://www.bscyb.ch/news-events?nID=7613,6113
+2017-10-29,Meisterschaft,2017-18,883,,YB,Sion,5,1,3,1,http://www.bscyb.ch/news-events?nID=7621,18077
+2017-11-02,Europa League,2017-18,884,,YB,Dynamo Kiew,0,1,0,0,http://www.bscyb.ch/news-events?nID=7631,10077
+2017-11-05,Meisterschaft,2017-18,885,,Basel,YB,1,1,0,0,http://www.bscyb.ch/news-events?nID=7634,32456
+2017-11-19,Meisterschaft,2017-18,886,,YB,Zürich,2,1,1,1,http://www.bscyb.ch/news-events?nID=7657,20800
+2017-11-23,Europa League,2017-18,887,,Partizan Belgrad,YB,2,1,1,1,http://www.bscyb.ch/news-events?nID=7665,22000
+2017-11-26,Meisterschaft,2017-18,888,,Lugano,YB,1,2,0,0,http://www.bscyb.ch/news-events?nID=7668,3384
+2017-11-30,Schweizer Cup,2017-18,889,,YB,St Gallen,2,1,1,0,http://www.bscyb.ch/news-events?nID=7677,7521
+2017-12-03,Meisterschaft,2017-18,890,,Thun,YB,3,1,1,0,http://www.bscyb.ch/news-events?nID=7682,7627
+2017-12-07,Europa League,2017-18,891,,YB,Skënderbeu Korça,2,1,0,0,http://www.bscyb.ch/news-events?nID=7691,8029
+2017-12-10,Meisterschaft,2017-18,892,,YB,GC,1,1,0,1,http://www.bscyb.ch/news-events?nID=7695,16146
+2017-12-17,Meisterschaft,2017-18,893,,Luzern,YB,2,4,0,2,http://www.bscyb.ch/news-events?nID=7703,8968
+2018-01-08,Testspiel,2017-18,895,,YB,Vaduz,6,1,2,1,http://www.bscyb.ch/news-events?nID=7718,350
+2018-01-14,Testspiel,2017-18,896,,YB,SV Sandhausen,3,0,0,0,,
+2018-01-17,Testspiel,2017-18,897,,YB,RB Salzburg,2,0,1,0,http://www.bscyb.ch/news-events?nID=7735,100
+2018-01-27,Testspiel,2017-18,898,,YB,Chiasso,3,2,1,1,http://www.bscyb.ch/news-events?nID=7745,760
+2018-01-27,Testspiel,2017-18,899,,YB,Xamax,4,2,1,0,http://www.bscyb.ch/news-events?nID=7745,760
+2018-02-03,Meisterschaft,2017-18,900,,YB,St Gallen,2,0,1,0,http://www.bscyb.ch/news-events?nID=7757,16647
+2018-02-11,Meisterschaft,2017-18,901,,Lausanne,YB,1,4,0,2,http://www.bscyb.ch/news-events?nID=7765,4200
+2018-02-18,Meisterschaft,2017-18,902,,YB,Thun,3,1,2,0,http://www.bscyb.ch/news-events?nID=7777,18030
+2018-02-24,Meisterschaft,2017-18,903,,YB,Sion,1,0,0,0,http://www.bscyb.ch/news-events?nID=7789,14255
+2018-02-27,Schweizer Cup,2017-18,904,,YB,Basel,2,0,0,0,http://www.bscyb.ch/news-events?nID=7794,23519
+2018-03-04,Meisterschaft,2017-18,905,,Lugano,YB,2,4,1,2,http://www.bscyb.ch/news-events?nID=7799,4021
+2018-03-11,Meisterschaft,2017-18,906,,YB,GC,3,1,1,1,http://www.bscyb.ch/news-events?nID=7811,25403
+2018-03-17,Meisterschaft,2017-18,907,,Zürich,YB,1,2,0,0,http://www.bscyb.ch/news-events?nID=7819,10560
+2018-04-02,Meisterschaft,2017-18,908,,YB,Basel,2,2,1,1,http://www.bscyb.ch/news-events?nID=7836,31120
+2018-04-08,Meisterschaft,2017-18,909,,St. Gallen,YB,2,4,2,2,http://www.bscyb.ch/news-events?nID=7844,17572
+2018-04-15,Meisterschaft,2017-18,910,,YB,Zürich,1,0,0,0,http://www.bscyb.ch/news-events?nID=7855,26702
+2018-04-18,Meisterschaft,2017-18,911,,Thun,YB,2,2,1,0,http://www.bscyb.ch/news-events?nID=7863,10014
+2018-04-22,Meisterschaft,2017-18,912,,YB,Lausanne Kids Day,4,1,3,0,http://www.bscyb.ch/news-events?nID=7871,26506
+2018-04-28,Meisterschaft,2017-18,913,,YB,Luzern,2,1,0,0,,
+2018-05-05,Meisterschaft,2017-18,914,,Sion,YB,0,1,0,0,http://www.bscyb.ch/news-events?nID=7899,13800
+2018-05-10,Meisterschaft,2017-18,915,,Basel,YB,5,1,2,0,http://www.bscyb.ch/news-events?nID=7908,29100
+2018-05-13,Meisterschaft,2017-18,916,,YB,Lugano,3,1,1,1,http://www.bscyb.ch/news-events?nID=7919,31120
+2018-05-19,Meisterschaft,2017-18,917,,GC,YB,1,2,0,0,http://www.bscyb.ch/news-events?nID=7929,8500
+2018-05-27,Schweizer Cupfinal,2017-18,918,,Zürich,YB,2,1,1,0,http://www.bscyb.ch/news-events?nID=7939,30000
