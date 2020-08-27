@@ -14,22 +14,48 @@ library(xml2)
 library(rvest)
 library(parsedate)
 
-urls <- paste0("https://www.fcb.ch/de-CH/Saison/Saisonspiel?m=",424:4050)
-urls <- data.table::data.table(link = urls)
+urls <- paste0("https://www.fcb.ch/de-CH/Saison/Saisonspiel?m=",424:4180)
 
-get_info <- function(link){
-  page <- xml2::read_html(link)
-  league <- html_nodes(page, css =".widget-gdt-contest-info-text > span:nth-child(1)")
-  match_day <- html_nodes(page, css =".widget-gdt-contest-info-text > span:nth-child(3)")
-  stadium <- html_nodes(page, css =".widget-gdt-info-stadium")
-  home_team <- html_nodes(page, css = ".widget-gdt-team-home")
-  away_team <- html_nodes(page, css = ".widget-gdt-team-guest")
-  home_goals <- html_nodes(page, css = ".widget-gdt-score-home")
-  away_goals <- html_nodes(page, css = ".widget-gdt-score-guest")
-  match_start <- html_nodes(page, css = ".widget-gdt-info-date")
-  spectators <- html_node(page, css = "span.widget-gdt-matchinfo-data-audience:nth-child(2)")
+columns <- c(
+  "league",
+  "match_day",
+  "stadium",
+  "home_team",
+  "away_team",
+  "home_goals",
+  "away_goals",
+  "match_start",
+  "spectators" 
+)
+
+nodes <- c(
+  ".widget-gdt-contest-info-text > span:nth-child(1)",
+  ".widget-gdt-contest-info-text > span:nth-child(3)",
+  ".widget-gdt-info-stadium",
+  ".widget-gdt-team-home",
+  ".widget-gdt-team-guest",
+  ".widget-gdt-score-home",
+  ".widget-gdt-score-guest",
+  ".widget-gdt-info-date",
+  "span.widget-gdt-matchinfo-data-audience:nth-child(2)"
+)
+
+#' Get details from match individual pages ----
+get_match_info <- function(node, page){
+  text <- html_nodes(page, css = node)
+  text <- rvest::html_text(text)
   return(text)
 }
 
-pages <- pblapply(urls[1,link], get_info)
-setnames(matches, names(matches), c("date", "league", "match", "results"))
+matches <- data.table::data.table()
+
+for (url in urls) {
+  page <- xml2::read_html(url)
+  match <- data.table()
+  match[, (columns) := lapply(nodes, get_match_info, page)]
+  matches <- rbindlist(list(matches, match), fill = TRUE)
+}
+
+matches[, url := urls]
+
+fwrite(matches, "raw_data/fc_basel.csv")

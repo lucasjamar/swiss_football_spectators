@@ -15,12 +15,30 @@ library(rvest)
 library(parsedate)
 
 #' Read the pages of each season containing the matches of that season
-urls <- paste0("https://www.fcz.ch/de/profis/spielplan/?season=", 1:4, "#schedule")
-pages <- lapply(urls, xml2::read_html)
-matches <- lapply(pages, rvest::html_table)
-matches <- lapply(matches, data.table::as.data.table)
-matches <- data.table::rbindlist(matches)
-setnames(matches, names(matches), c("match_start", "league", "match_number", "match", "results", "link"))
+seasons <- data.table(start = 2016:2020)
+seasons[, end := start - floor((start + 1)/100)*100 + 1]
+seasons[, season := paste0(start, "-", end)]
+seasons[, link := paste0("https://www.fcz.ch/de/profis/spielplan/?season=", 1:5, "#schedule")]
+
+matches <- data.table()
+urls <- data.table()
+
+for(link in seasons$link) {
+  page <- xml2::read_html(link)
+  match <- rvest::html_table(page)
+  match <- data.table::as.data.table(match)
+  match <- match[, 1:5]
+  match[, link := link]
+  matches <-  data.table::rbindlist(list(matches, match), fill = TRUE)
+  
+  url <- rvest::html_nodes(page, "a")
+  url <- rvest::html_attr(url,  "href")
+  url <- data.table::as.data.table(url)
+  urls <- rbindlist(list(urls, url))
+}
+
+setnames(matches, c("match_start", "league", "match_number", "match", "results", "link"))
+matches[seasons, on = .(link), season := season]
 matches[, link := NULL]
 
 #' Parse information from data
@@ -30,16 +48,11 @@ matches[, home_goals := stringr::str_extract_all(results, "\\d+", simplify = TRU
 matches[, away_goals := stringr::str_extract_all(results, "\\d+", simplify = TRUE)[, 2]]
 matches[, home_goals := as.numeric(home_goals)]
 matches[, away_goals := as.numeric(away_goals)]
-matches <- matches[home_team == "FC Zürich"]
 matches[, match_start := parsedate::parse_date(match_start)]
 matches[, date := as.Date(match_start)]
 
 #' Get the links of individual matches
-urls <- lapply(pages, rvest::html_nodes, "a")
-urls <- lapply(urls, rvest::html_attr, "href")
-urls <- lapply(urls, data.table::as.data.table)
-urls <- rbindlist(urls)
-setnames(urls, "V1", "link")
+setnames(urls, "url", "link")
 urls <- urls[link %like% "/de/profis/news/20"]
 urls[, link := paste0("https://www.fcz.ch", link)]
 
@@ -49,9 +62,8 @@ get_match_info <- function(link) {
   return(text)
 }
 
-#' Keep only pages specifying letzigrund
+#' Extract info out of page
 urls[, text := pblapply(link, get_match_info)]
-urls <- urls[text %like% "Letzigrund, Zürich"]
 urls[, index := .I]
 urls[, title := stringr::str_split(text, " - ", simplify = TRUE)[, 1]]
 urls[, text := stringr::str_squish(text)]
@@ -64,7 +76,7 @@ urls[, date := stringr::word(text, 1, 20, sep = " ")]
 urls[, date := parsedate::parse_date(date)]
 urls[, date := as.Date(date)]
 
-#' Get the text before last occurence of "Zuschauer"
+#' Get the text before last occurrence of "Zuschauer"
 urls[, text := stringr::str_split(text, "Zuschauer")]
 urls[, text := tail(head(unlist(text), -1), 1), by = index]
 urls[, text := unlist(text)]
@@ -77,7 +89,6 @@ urls[, c("index", "text") := NULL]
 
 #' Merge on match date. Remove missing values.
 matches[urls, on = .(date), names(urls) := mget(names(urls))]
-matches <- matches[!is.na(spectators)]
 
 #' Write to file
-fwrite(matches, "matches.csv")
+fwrite(matches, "raw_data/fc_zurich.csv")
