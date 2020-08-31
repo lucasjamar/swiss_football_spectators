@@ -46,8 +46,13 @@ matches[, home_team := stringr::str_split(match, " – ", simplify = TRUE)[, 1]]
 matches[, away_team := stringr::str_split(match, " – ", simplify = TRUE)[, 2]]
 matches[, home_goals := stringr::str_extract_all(results, "\\d+", simplify = TRUE)[, 1]]
 matches[, away_goals := stringr::str_extract_all(results, "\\d+", simplify = TRUE)[, 2]]
-matches[, home_goals := as.numeric(home_goals)]
-matches[, away_goals := as.numeric(away_goals)]
+matches[, home_goals_first_half := stringr::str_extract_all(results, "\\d+", simplify = TRUE)[, 3]]
+matches[, away_goals_first_half := stringr::str_extract_all(results, "\\d+", simplify = TRUE)[, 4]]
+goals_columns <- c("home_goals",
+                   "away_goals",
+                   "home_goals_first_half",
+                   "away_goals_first_half")
+matches[, (goals_columns) := lapply(.SD, as.numeric), .SDcols = goals_columns]
 matches[, match_start := parsedate::parse_date(match_start)]
 matches[, date := as.Date(match_start)]
 
@@ -89,6 +94,7 @@ urls[, c("index", "text") := NULL]
 
 #' Merge on match date. Remove missing values.
 matches[urls, on = .(date), names(urls) := mget(names(urls))]
+lubridate::tz(matches$match_start) <- "Europe/Berlin"
 
 #' Write to file
 fwrite(matches, "raw_data/fc_zurich.csv")
