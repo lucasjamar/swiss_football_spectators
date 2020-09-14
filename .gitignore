@@ -26,6 +26,8 @@ vignettes/*.pdf
 *.knit.md
 # R Environment Variables
 .Renviron
+raw_data/
+clean_data
 raw_data/bscyb.csv
 raw_data/fc_zurich.csv
 raw_data/fc_basel.csv

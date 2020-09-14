@@ -146,23 +146,32 @@ stadiums[, capacity := stringr::str_remove_all(capacity,",")]
 stadiums[capacity != other_name, other_name := NA]
 stadiums[, capacity := as.integer(capacity)]
 stadiums[capacity == other_name, other_name := NA]
+stadiums[other_name == "", other_name := NA]
 
-other_names <- unique(stadiums[!is.na(other_name), other_name])
-for(other_name in other_names){
-  dt[stadium == other_name, stadium := other_name]
+
+other_names <- stadiums[!is.na(other_name), other_name]
+real_names <- stadiums[!is.na(other_name), stadium]
+
+for(nth_name in 1:length(other_names)){
+  old <- other_names[nth_name]
+  new <- real_names[nth_name]
+  dt[stadium == old, stadium := new]
 }
 dt[stadiums, on =.(stadium), capacity := capacity]
 dt[, load_factor := spectators/capacity]
 
 #' Feature engineering
-dt[home_team == "FC BASEL 1893", `:=` (opposing_club = away_team,
-                                goals = home_goals,
-                                opposing_goals = away_goals)]
-dt[away_team == "FC BASEL 1893", `:=` (opposing_club = home_team,
-                                goals = away_goals,
-                                opposing_goals = home_goals)]
+dt[, alphabetically_first_team := pmin(home_team, away_team)]
+dt[, alphabetically_second_team := pmax(home_team, away_team)]
 
+dt[home_team == "FC BASEL 1893", opposing_team := away_team]
+dt[away_team == "FC BASEL 1893", opposing_team := home_team]
+
+dt[, hour_of_day := hour(match_start)]
 dt[, time_of_day := hour(match_start)*60 + minute(match_start)]
-dt[, day_of_week := lubridate::wday(date, label = TRUE)]
+dt[, day_of_week := wday(date)]
+dt[, day_of_week_labeled := lubridate::wday(date, label = TRUE)]
 dt[, week_of_year := week(date)]
 dt[, year := year(date)]
+
+fwrite(dt, "clean_data/fc_basel.csv")
